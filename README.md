@@ -5,4 +5,4 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ![Lukas Batema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lukas-Batema&show_icons=true&theme=dark&count_private=true&custom_title=%E2%9A%A1%20Lukas%27%20Stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas-Batema&theme=dark&custom_title=%E2%9A%A1%20Lukas%27%20Top%20Languages%20on%20PedestriaMC-Network)](https://github.com/PedestriaMC-Network/PedestriapediaOfficial)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Lukas-Batema&theme=dark&custom_title=%E2%9A%A1%20Lukas%27%20Top%20Languages)](https://github.com/Lukas-Batema)
