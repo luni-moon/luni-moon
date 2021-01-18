@@ -4,14 +4,14 @@ Hello guys and gals, I am Lukas Batema. I am a 16 year old male. I know tons of 
 If you need anyone to talk to, or need to message me for anyother reason, please contact me at my [email](mailto:lukasbatema@gmail.com), or attempt to contact me on my Discord (HogaticCultist19#0119), although my email is preferred and responded to the quickest!
 
 <a href="#">
-  <img align="center" src="https://api.github.com/api?username=Lukas-Batema&show_icons=true&theme=onedark&count_private=true&custom_title=%E2%9A%A1%20Lukas%27%20Stats" />
+  <img align="center" src="https://api.lukas-batema.github.io/api?username=Lukas-Batema&show_icons=true&theme=onedark&count_private=true&custom_title=%E2%9A%A1%20Lukas%27%20Stats" />
 </a>
 
 <a href="#">
-  <img align="center" src="https://api.github.com/api?username=Lukas-Batema&show_icons=true&theme=onedark&count_private=true&custom_title=%E2%9A%A1%20Lukas%27%20Stars" />
+  <img align="center" src="https://api.lukas-batema.github.io/api?username=Lukas-Batema&show_icons=true&theme=onedark&count_private=true&custom_title=%E2%9A%A1%20Lukas%27%20Stars" />
 </a>
 
 ###### My most used language
 <a href="#">
-  <img align="center" src="https://api.github.com/api/toplangs/?username=Lukas-Batema&layout=compact&theme=onedark" />
+  <img align="center" src="https://api.lukas-batema.github.io/api/toplangs/?username=Lukas-Batema&layout=compact&theme=onedark" />
 </a>
