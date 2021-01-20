@@ -5,8 +5,8 @@ Hello guys and gals, I am Lukas Batema. I am a 16 year old male. I know tons of 
 
 If you need anyone to talk to, or need to message me for anyother reason, please contact me at my [email](mailto:lukasbatema@gmail.com), or attempt to contact me on my Discord (HogaticCultist19#0119), although my email is preferred and responded to the quickest!
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PedestriaMC-Network&theme=dark&show_owner=true&repo=PedestriapediaOfficial)
+![ReadMe Card](https://readme-stats-theta.vercel.app/api/pin/?username=PedestriaMC-Network&theme=dark&show_owner=true&repo=PedestriapediaOfficial)
 
-![Lukas Batema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lukas-Batema&show_icons=true&theme=dark&count_private=true&custom_title=%E2%9A%A1%20Lukas%27%20Stats)
+![Lukas Batema's GitHub Stats](https://readme-stats-theta.vercel.app/api?username=Lukas-Batema&show_icons=true&theme=dark&count_private=true&custom_title=%E2%9A%A1%20Lukas%27%20Stats)
 
-![Lukas Batema's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas-Batema&theme=dark&custom_title=%E2%9A%A1%20Lukas%27%20Top%20Languages)
+![Lukas Batema's Top Languages](https://readme-stats-theta.vercel.app/api/top-langs/?username=Lukas-Batema&theme=dark&custom_title=%E2%9A%A1%20Lukas%27%20Top%20Languages&exclude_repo=git-readme-stats,SpeedCubing-dot-org-Mobile&langs_count=10)
