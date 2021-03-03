@@ -16,5 +16,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 [![Spotify](https://novatorem-a9mjgnvdw-lukas-batema.vercel.app/)](https://open.spotify.com/user/013s9s9c4z1it8k5v8t3fzcse)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Lukas-Batema/Lukas-Batema/issues/1) in [Lukas-Batema/Lukas-Batema](https://github.com/Lukas-Batema/Lukas-Batema)
+1. ❗️ Opened issue [#24](https://github.com/novatorem/novatorem/issues/24) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
 <!--END_SECTION:activity-->
