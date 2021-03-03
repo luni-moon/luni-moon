@@ -13,7 +13,7 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lukas-Batema&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![Spotify](https://novatorem-lukas-batema.vercel.app/)](https://open.spotify.com/user/013s9s9c4z1it8k5v8t3fzcse)
+[![Spotify](https://novatorem-fvnors28p-lukas-batema.vercel.app)](https://open.spotify.com/user/013s9s9c4z1it8k5v8t3fzcse)
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/Lukas-Batema/Lukas-Batema/issues/1) in [Lukas-Batema/Lukas-Batema](https://github.com/Lukas-Batema/Lukas-Batema)
