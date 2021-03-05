@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Lukas-Batema/All4Seasons/pull/3) in [Lukas-Batema/All4Seasons](https://github.com/Lukas-Batema/All4Seasons)
+1. 💪 Opened PR [#7](https://github.com/Lukas-Batema/All4Seasons/pull/7) in [Lukas-Batema/All4Seasons](https://github.com/Lukas-Batema/All4Seasons)
 <!--END_SECTION:activity-->
