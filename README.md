@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Lukas-Batema/pytml/pull/2) in [Lukas-Batema/pytml](https://github.com/Lukas-Batema/pytml)
+1. 🎉 Merged PR [#1](https://github.com/Lukas-Batema/HobbyInit/pull/1) in [Lukas-Batema/HobbyInit](https://github.com/Lukas-Batema/HobbyInit)
 <!--END_SECTION:activity-->
