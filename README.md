@@ -22,5 +22,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Lukas-Batema/All4Seasons/issues/1) in [Lukas-Batema/All4Seasons](https://github.com/Lukas-Batema/All4Seasons)
+1. 🗣 Commented on [#24](https://github.com/novatorem/novatorem/issues/24) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
 <!--END_SECTION:activity-->
