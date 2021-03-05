@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Lukas-Batema/All4Seasons/pull/12) in [Lukas-Batema/All4Seasons](https://github.com/Lukas-Batema/All4Seasons)
+1. 🎉 Merged PR [#13](https://github.com/Lukas-Batema/All4Seasons/pull/13) in [Lukas-Batema/All4Seasons](https://github.com/Lukas-Batema/All4Seasons)
 <!--END_SECTION:activity-->
