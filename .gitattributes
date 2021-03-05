@@ -1,0 +1,8 @@
+/README.md linguist-detectable
+/README.md -linguist-documentation
+.github/funding.yml linguist-detectable
+.github/funding.yml -liguist-documentation
+.github/workflows/update-readme.yml linguist-detectable
+.github/workflows/update-readme.yml -liguist-documentation
+/LICENSE linguist-detectable
+/LICENSE -linguist-documentation
