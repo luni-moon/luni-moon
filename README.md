@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Lukas-Batema/readme-explorer/pull/1) in [Lukas-Batema/readme-explorer](https://github.com/Lukas-Batema/readme-explorer)
+1. 🎉 Merged PR [#1](https://github.com/Lukas-Batema/CubingTimerAdvancedPlus/pull/1) in [Lukas-Batema/CubingTimerAdvancedPlus](https://github.com/Lukas-Batema/CubingTimerAdvancedPlus)
 <!--END_SECTION:activity-->
