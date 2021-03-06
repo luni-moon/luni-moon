@@ -1,0 +1,8 @@
+# Add 'documentation' label to any documentation file changes
+documentation:
+  - .gitignore
+  - .gitattributes
+  - README.md
+  - LICENSE
+  - .github/*/*.*
+  - .github/*/*/*.*
