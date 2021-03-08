@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Lukas-Batema/Lukas-Batema/pull/2) in [Lukas-Batema/Lukas-Batema](https://github.com/Lukas-Batema/Lukas-Batema)
+1. 🎉 Merged PR [#1](https://github.com/Lukas-Batema/CoffeeBeansCalculator/pull/1) in [Lukas-Batema/CoffeeBeansCalculator](https://github.com/Lukas-Batema/CoffeeBeansCalculator)
 <!--END_SECTION:activity-->
