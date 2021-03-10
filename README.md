@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Lukas-Batema/CoffeeBeansCalculator/pull/2) in [Lukas-Batema/CoffeeBeansCalculator](https://github.com/Lukas-Batema/CoffeeBeansCalculator)
+1. 🗣 Commented on [#41](https://github.com/thebaselab/codeapp/issues/41) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
 <!--END_SECTION:activity-->
