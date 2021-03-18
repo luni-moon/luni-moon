@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/SidPaliwal/CryptoCurrency-Tracker/pull/1) in [SidPaliwal/CryptoCurrency-Tracker](https://github.com/SidPaliwal/CryptoCurrency-Tracker)
+1. 🗣 Commented on [#30](https://github.com/thebaselab/codeapp/issues/30) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
 <!--END_SECTION:activity-->
