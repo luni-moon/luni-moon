@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/thebaselab/codeapp/issues/30) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
+1. 🗣 Commented on [#3](https://github.com/theopcoder/HermitcraftBot/issues/3) in [theopcoder/HermitcraftBot](https://github.com/theopcoder/HermitcraftBot)
 <!--END_SECTION:activity-->
