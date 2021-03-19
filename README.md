@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Lukas-Batema/com.batemadevelopment/pull/3) in [Lukas-Batema/com.batemadevelopment](https://github.com/Lukas-Batema/com.batemadevelopment)
+1. ❗️ Opened issue [#216](https://github.com/git-touch/git-touch/issues/216) in [git-touch/git-touch](https://github.com/git-touch/git-touch)
 <!--END_SECTION:activity-->
