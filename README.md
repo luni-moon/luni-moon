@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/theopcoder/HermitcraftBot/issues/3) in [theopcoder/HermitcraftBot](https://github.com/theopcoder/HermitcraftBot)
+1. 🎉 Merged PR [#2](https://github.com/Lukas-Batema/com.batemadevelopment/pull/2) in [Lukas-Batema/com.batemadevelopment](https://github.com/Lukas-Batema/com.batemadevelopment)
 <!--END_SECTION:activity-->
