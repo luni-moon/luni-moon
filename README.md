@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#217](https://github.com/git-touch/git-touch/issues/217) in [git-touch/git-touch](https://github.com/git-touch/git-touch)
+1. ❗️ Opened issue [#18](https://github.com/theopcoder/PedestriaBotOfficial/issues/18) in [theopcoder/PedestriaBotOfficial](https://github.com/theopcoder/PedestriaBotOfficial)
 <!--END_SECTION:activity-->
