@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#226](https://github.com/git-touch/git-touch/issues/226) in [git-touch/git-touch](https://github.com/git-touch/git-touch)
+1. ❗️ Opened issue [#68](https://github.com/thebaselab/codeapp/issues/68) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
 <!--END_SECTION:activity-->
