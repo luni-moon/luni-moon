@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#217](https://github.com/git-touch/git-touch/issues/217) in [git-touch/git-touch](https://github.com/git-touch/git-touch)
+1. 🗣 Commented on [#521](https://github.com/adjust/ios_sdk/issues/521) in [adjust/ios_sdk](https://github.com/adjust/ios_sdk)
 <!--END_SECTION:activity-->
