@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/cdr/deploy-code-server/issues/15) in [cdr/deploy-code-server](https://github.com/cdr/deploy-code-server)
+1. 💪 Opened PR [#1](https://github.com/MelonicOverlord/LogTimeSite/pull/1) in [MelonicOverlord/LogTimeSite](https://github.com/MelonicOverlord/LogTimeSite)
 <!--END_SECTION:activity-->
