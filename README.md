@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/Lukas-Batema/BatemaDevelopment/pull/6) in [Lukas-Batema/BatemaDevelopment](https://github.com/Lukas-Batema/BatemaDevelopment)
+1. 🎉 Merged PR [#3](https://github.com/Lukas-Batema/LogTimeSite/pull/3) in [Lukas-Batema/LogTimeSite](https://github.com/Lukas-Batema/LogTimeSite)
 <!--END_SECTION:activity-->
