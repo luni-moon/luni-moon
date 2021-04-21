@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/cdr/deploy-code-server/issues/21) in [cdr/deploy-code-server](https://github.com/cdr/deploy-code-server)
+1. 🗣 Commented on [#3](https://github.com/MFHKiwi/super-smash-aeugh/issues/3) in [MFHKiwi/super-smash-aeugh](https://github.com/MFHKiwi/super-smash-aeugh)
 <!--END_SECTION:activity-->
