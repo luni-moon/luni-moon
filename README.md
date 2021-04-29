@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/PedestriaMC-Network/PedestriapediaOfficial/pull/19) in [PedestriaMC-Network/PedestriapediaOfficial](https://github.com/PedestriaMC-Network/PedestriapediaOfficial)
+1. 🎉 Merged PR [#1](https://github.com/Lukas-Batema/PedestriapediaOfficial/pull/1) in [Lukas-Batema/PedestriapediaOfficial](https://github.com/Lukas-Batema/PedestriapediaOfficial)
 <!--END_SECTION:activity-->
