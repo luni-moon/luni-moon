@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Lukas-Batema/PedestriapediaOfficial/pull/1) in [Lukas-Batema/PedestriapediaOfficial](https://github.com/Lukas-Batema/PedestriapediaOfficial)
+1. ❗️ Reopened issue [#97](https://github.com/thebaselab/codeapp/issues/97) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
 <!--END_SECTION:activity-->
