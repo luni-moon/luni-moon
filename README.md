@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#114](https://github.com/thebaselab/codeapp/issues/114) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
+1. ❗️ Closed issue [#97](https://github.com/thebaselab/codeapp/issues/97) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
 <!--END_SECTION:activity-->
