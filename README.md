@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#117](https://github.com/thebaselab/codeapp/issues/117) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
+1. 🎉 Merged PR [#21](https://github.com/PedestriaMC-Network/PedestriapediaOfficial/pull/21) in [PedestriaMC-Network/PedestriapediaOfficial](https://github.com/PedestriaMC-Network/PedestriapediaOfficial)
 <!--END_SECTION:activity-->
