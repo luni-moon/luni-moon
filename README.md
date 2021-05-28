@@ -21,5 +21,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/MelonicOverlord/LogTimeSite/pull/11) in [MelonicOverlord/LogTimeSite](https://github.com/MelonicOverlord/LogTimeSite)
+1. 💪 Opened PR [#12](https://github.com/MelonicOverlord/LogTimeSite/pull/12) in [MelonicOverlord/LogTimeSite](https://github.com/MelonicOverlord/LogTimeSite)
 <!--END_SECTION:activity-->
