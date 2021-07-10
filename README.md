@@ -15,7 +15,7 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ![Lukas Batema's GitHub Stats](https://readme-stats-theta.vercel.app/api?username=Lukas-Batema&show_icons=true&theme=dark&count_private=true&custom_title=%E2%9A%A1%20Lukas%27%20Stats)
 
-![Lukas Batema's Top Languages](https://readme-stats-theta.vercel.app/api/top-langs/?username=Lukas-Batema&theme=dark&custom_title=%E2%9A%A1%20Lukas%27%20Top%20Languages&exclude_repo=git-readme-stats,deploy-code-server&langs_count=10)
+![Lukas Batema's Top Languages](https://readme-stats-theta.vercel.app/api/top-langs/?username=Lukas-Batema&theme=dark&custom_title=%E2%9A%A1%20Lukas%27%20Top%20Languages&exclude_repo=git-readme-stats,vscode-server,SpeedCubing-dot-org-Mobile,slidev-testing,PedestriaBotOfficial,Speedcubing.orgBot,git-touch,Scrambler,novatorem,creative-profile-readme&langs_count=10)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lukas-Batema&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
