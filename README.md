@@ -19,5 +19,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Stellabot/Env/issues/1) in [Stellabot/Env](https://github.com/Stellabot/Env)
+1. 🗣 Commented on [#21](https://github.com/cdr/deploy-code-server/issues/21) in [cdr/deploy-code-server](https://github.com/cdr/deploy-code-server)
 <!--END_SECTION:activity-->
