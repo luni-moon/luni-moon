@@ -11,8 +11,6 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 ### Stats and Pins
 [![ReadMe Card](https://readme-stats-theta.vercel.app/api/pin/?username=PedestriaMC-Network&theme=dark&show_owner=true&repo=PedestriapediaOfficial)](https://github.com/PedestriaMC-Network/PedestriapediaOfficial)
 
-[![ReadMe Card](https://readme-stats-theta.vercel.app/api/pin/?username=Lukas-Batema&theme=dark&show_owner=true&repo=readme-explorer)](https://github.com/Lukas-Batema/readme-explorer/blob/master/README.md)
-
 ![Lukas Batema's GitHub Stats](https://readme-stats-theta.vercel.app/api?username=Lukas-Batema&show_icons=true&theme=dark&count_private=true&custom_title=%E2%9A%A1%20Lukas%27%20Stats)
 
 ![Lukas Batema's Top Languages](https://readme-stats-theta.vercel.app/api/top-langs/?username=Lukas-Batema&theme=dark&custom_title=%E2%9A%A1%20Lukas%27%20Top%20Languages&exclude_repo=git-readme-stats,vscode-server-1,vscode-server-2,vscode-server-3,slidev-testing,PedestriaBotOfficial,Speedcubing.orgBot,Scrambler,novatorem,creative-profile-readme&langs_count=10)
