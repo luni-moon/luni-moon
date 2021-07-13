@@ -19,5 +19,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/cdr/deploy-code-server/issues/45) in [cdr/deploy-code-server](https://github.com/cdr/deploy-code-server)
+1. ❌ Closed PR [#4](https://github.com/Lukas-Batema/BatemaDevelopmentJavaPackages/pull/4) in [Lukas-Batema/BatemaDevelopmentJavaPackages](https://github.com/Lukas-Batema/BatemaDevelopmentJavaPackages)
 <!--END_SECTION:activity-->
