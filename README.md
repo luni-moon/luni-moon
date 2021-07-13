@@ -19,5 +19,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#45](https://github.com/cdr/deploy-code-server/issues/45) in [cdr/deploy-code-server](https://github.com/cdr/deploy-code-server)
+1. 💪 Opened PR [#1](https://github.com/Lukas-Batema/Speedcubing.orgBotOfficial/pull/1) in [Lukas-Batema/Speedcubing.orgBotOfficial](https://github.com/Lukas-Batema/Speedcubing.orgBotOfficial)
 <!--END_SECTION:activity-->
