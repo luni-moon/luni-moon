@@ -19,5 +19,5 @@ If you need anyone to talk to, or need to message me for anyother reason, please
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/Lukas-Batema/BatemaDevelopmentJavaPackages/pull/4) in [Lukas-Batema/BatemaDevelopmentJavaPackages](https://github.com/Lukas-Batema/BatemaDevelopmentJavaPackages)
+1. 🗣 Commented on [#200](https://github.com/thebaselab/codeapp/issues/200) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
 <!--END_SECTION:activity-->
