@@ -17,5 +17,5 @@ Hello guys and gals, I am Lukas Batema. I am a 16 year old male. I know tons of 
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/blueedgetechno/windows11/issues/33) in [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11)
+1. ❗️ Opened issue [#164](https://github.com/MrPotatoBobx/FetchCord/issues/164) in [MrPotatoBobx/FetchCord](https://github.com/MrPotatoBobx/FetchCord)
 <!--END_SECTION:activity-->
