@@ -17,5 +17,5 @@ Hello guys and gals, I am Lukas Batema. I am a 16 year old male. I know tons of 
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#164](https://github.com/MrPotatoBobx/FetchCord/issues/164) in [MrPotatoBobx/FetchCord](https://github.com/MrPotatoBobx/FetchCord)
+1. 💪 Opened PR [#1](https://github.com/fetchcord/fetchcord.github.io/pull/1) in [fetchcord/fetchcord.github.io](https://github.com/fetchcord/fetchcord.github.io)
 <!--END_SECTION:activity-->
