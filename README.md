@@ -35,5 +35,5 @@ Hello guys and gals, I am Lukas Batema. I am a 16 year old male. I know tons of 
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#24](https://github.com/theopcoder/PedestriaBotOfficial/pull/24) in [theopcoder/PedestriaBotOfficial](https://github.com/theopcoder/PedestriaBotOfficial)
+1. 💪 Opened PR [#3](https://github.com/fetchcord/fetchcord.github.io/pull/3) in [fetchcord/fetchcord.github.io](https://github.com/fetchcord/fetchcord.github.io)
 <!--END_SECTION:activity-->
