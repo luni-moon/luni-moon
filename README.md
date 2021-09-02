@@ -135,5 +135,5 @@ Hello guys and gals, I am Lukas Batema. I am a 16 year old male. I know tons of 
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#24](https://github.com/theopcoder/PedestriaBotOfficial/pull/24) in [theopcoder/PedestriaBotOfficial](https://github.com/theopcoder/PedestriaBotOfficial)
+1. 🗣 Commented on [#230](https://github.com/thebaselab/codeapp/issues/230) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
 <!--END_SECTION:activity-->
