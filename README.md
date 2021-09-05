@@ -135,5 +135,5 @@ Hello guys and gals, I am Lukas Batema. I am a 16 year old male. I know tons of 
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#101](https://github.com/blueedgetechno/windows11/pull/101) in [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11)
+1. ❗️ Opened issue [#107](https://github.com/blueedgetechno/windows11/issues/107) in [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11)
 <!--END_SECTION:activity-->
