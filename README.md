@@ -135,5 +135,5 @@ Hello guys and gals, I am Lukas Batema. I am a 16 year old male. I know tons of 
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#113](https://github.com/blueedgetechno/windows11/issues/113) in [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11)
+1. ❗️ Opened issue [#240](https://github.com/thebaselab/codeapp/issues/240) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
 <!--END_SECTION:activity-->
