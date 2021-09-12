@@ -135,5 +135,5 @@ Hello guys and gals, I am Lukas Batema. I am a 16 year old male. I know tons of 
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#3](https://github.com/Lukas-Batema/Lukas-Batema/issues/3) in [Lukas-Batema/Lukas-Batema](https://github.com/Lukas-Batema/Lukas-Batema)
+1. 🗣 Commented on [#3](https://github.com/Lukas-Batema/Lukas-Batema/issues/3) in [Lukas-Batema/Lukas-Batema](https://github.com/Lukas-Batema/Lukas-Batema)
 <!--END_SECTION:activity-->
