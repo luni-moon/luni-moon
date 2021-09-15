@@ -128,7 +128,7 @@ Hello guys and gals, I am Lukas Batema. I am a 16 year old male. I know tons of 
 <table>
   <tr>
     <td>
-      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lukas-Batema&theme=dark" /><img alt="Lukas Batema's GitHub Stats" src="https://readme-stats-theta.vercel.app/api?username=Lukas-Batema&show_icons=true&theme=dark&count_private=true&custom_title=%E2%9A%A1%20Lukas%27%20Stats" /><img alt="Lukas Batema's Top Languages" src="https://readme-stats-theta.vercel.app/api/top-langs/?username=Lukas-Batema&theme=dark&custom_title=%E2%9A%A1%20Lukas%27%20Top%20Languages&exclude_repo=git-readme-stats,vscode-server,my-slides,PedestriaBotOfficial,Speedcubing.orgBot,PedestriaHostingBot,Scrambler,novatorem,creative-profile-readme&langs_count=10" />
+      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lukas-Batema&theme=dark" /><img alt="Lukas Batema's GitHub Stats" src="https://readme-stats-theta.vercel.app/api?username=Lukas-Batema&show_icons=true&theme=dark&count_private=true&custom_title=%E2%9A%A1%20Lukas%27%20Stats" /><img alt="Lukas Batema's Top Languages" src="https://readme-stats-theta.vercel.app/api/top-langs/?username=Lukas-Batema&theme=dark&custom_title=%E2%9A%A1%20Lukas%27%20Top%20Languages&exclude_repo=git-readme-stats,vscode-server,my-slides,PedestriaBotOfficial,Speedcubing.orgBot,PedestriaHostingBot,Scrambler,novatorem,creative-profile-readme,movement-geography-slides&langs_count=10" />
     </td>
   </tr>
 </table>
