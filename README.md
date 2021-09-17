@@ -8,13 +8,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukas-batema" alt="lukas-batema" /></a> </p>
 
-<p align="center"> </p>
-
 - 🔭 I’m currently working on **macOS Catalina Web Copy**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 
-- 👨‍💻 All of my projects are available at [www.batemadevelopment.com](www.batemadevelopment.com)
+- 👨‍💻 All of my projects are available at [www.batemadevelopment.com](https://www.batemadevelopment.com)
 
 - 💬 Ask me about **JS, jQuery, HTML5, and CSS3**
 
