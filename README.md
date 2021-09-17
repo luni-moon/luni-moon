@@ -124,14 +124,41 @@ Hello guys and gals, I am Lukas Batema. I am a 16 year old male. I know tons of 
 
 [![Spotify](https://novatorem-lukas-batema.vercel.app/api/spotify)](https://open.spotify.com/user/013s9s9c4z1it8k5v8t3fzcse)
 
-### Stats and Pins
-<table>
-  <tr>
-    <td>
-      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lukas-Batema&theme=dark" /><img alt="Lukas Batema's GitHub Stats" src="https://readme-stats-theta.vercel.app/api?username=Lukas-Batema&show_icons=true&theme=dark&count_private=true&custom_title=%E2%9A%A1%20Lukas%27%20Stats" /><img alt="Lukas Batema's Top Languages" src="https://readme-stats-theta.vercel.app/api/top-langs/?username=Lukas-Batema&theme=dark&custom_title=%E2%9A%A1%20Lukas%27%20Top%20Languages&exclude_repo=git-readme-stats,vscode-server,my-slides,PedestriaBotOfficial,Speedcubing.orgBot,PedestriaHostingBot,Scrambler,novatorem,creative-profile-readme,movement-geography-slides&langs_count=10" />
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi 👋, I'm Lukas Batema</h1>
+<h3 align="center">Founder of BatemaDevelopment, and a Jedi Master.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukas-batema&label=Profile%20views&color=0e75b6&style=flat" alt="lukas-batema" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukas-batema" alt="lukas-batema" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/batema_lukas" target="blank"><img src="https://img.shields.io/twitter/follow/batema_lukas?logo=twitter&style=for-the-badge" alt="batema_lukas" /></a> </p>
+
+- 🔭 I’m currently working on **macOS Catalina Web Copy**
+
+- 👯 I’m looking to collaborate on **Open-Source Projects**
+
+- 👨‍💻 All of my projects are available at [www.batemadevelopment.com](www.batemadevelopment.com)
+
+- 💬 Ask me about **JS, jQuery, HTML5, and CSS3**
+
+- 📫 How to reach me **lukasbatema@gmail.com**
+
+- ⚡ Fun fact **I have been cubing since 5th grade, and programming since 6th. I am now in 11th grade**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/batemadevelopment" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="batemadevelopment" height="30" width="40" /></a>
+<a href="https://twitter.com/batema_lukas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="batema_lukas" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukas-batema&show_icons=true&theme=dark&locale=en&layout=compact" alt="lukas-batema" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukas-batema&show_icons=true&theme=dark&locale=en" alt="lukas-batema" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukas-batema&theme=dark" alt="lukas-batema" /></p>
 
 ### Recent Activity
 <!--START_SECTION:activity-->
