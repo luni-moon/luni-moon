@@ -1,7 +1,7 @@
 ![macOS Catalina](assets/macOS_Catalina.JPG)
 ---
 <h1 align="center">Lukas Batema</h1>
-<h3 align="center">BatemaDevelopment | Know Software Transparency</h3>
+<h3 align="center">BatemaDevelopment | Keeping Code Public | Established: January 17, 2021</h3>
 <h6 align="center">Founder of BatemaDevelopment, and a Jedi Master.</h6>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lukas-batema&label=Profile%20views&color=0e75b6&style=flat" alt="lukas-batema" /> </p>
