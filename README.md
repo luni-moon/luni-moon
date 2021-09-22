@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#779](https://github.com/juliangarnier/anime/issues/779) in [juliangarnier/anime](https://github.com/juliangarnier/anime)
+1. 🗣 Commented on [#778](https://github.com/juliangarnier/anime/issues/778) in [juliangarnier/anime](https://github.com/juliangarnier/anime)
 <!--END_SECTION:activity-->
