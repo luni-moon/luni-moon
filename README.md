@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/fetchcord/fetchcord.github.io/pull/4) in [fetchcord/fetchcord.github.io](https://github.com/fetchcord/fetchcord.github.io)
+1. ❗️ Opened issue [#778](https://github.com/juliangarnier/anime/issues/778) in [juliangarnier/anime](https://github.com/juliangarnier/anime)
 <!--END_SECTION:activity-->
