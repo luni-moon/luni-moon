@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#778](https://github.com/juliangarnier/anime/issues/778) in [juliangarnier/anime](https://github.com/juliangarnier/anime)
+1. 💪 Opened PR [#173](https://github.com/MrPotatoBobx/FetchCord/pull/173) in [MrPotatoBobx/FetchCord](https://github.com/MrPotatoBobx/FetchCord)
 <!--END_SECTION:activity-->
