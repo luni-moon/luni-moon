@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#174](https://github.com/MrPotatoBobx/FetchCord/pull/174) in [MrPotatoBobx/FetchCord](https://github.com/MrPotatoBobx/FetchCord)
+1. 🗣 Commented on [#174](https://github.com/MrPotatoBobx/FetchCord/issues/174) in [MrPotatoBobx/FetchCord](https://github.com/MrPotatoBobx/FetchCord)
 <!--END_SECTION:activity-->
