@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#79](https://github.com/ryo-ma/github-profile-trophy/issues/79) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+1. ❗️ Closed issue [#779](https://github.com/juliangarnier/anime/issues/779) in [juliangarnier/anime](https://github.com/juliangarnier/anime)
 <!--END_SECTION:activity-->
