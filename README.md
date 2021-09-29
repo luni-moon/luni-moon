@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/blueedgetechno/windows11/issues/124) in [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11)
+1. ❗️ Opened issue [#79](https://github.com/ryo-ma/github-profile-trophy/issues/79) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 <!--END_SECTION:activity-->
