@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **lukasbatema@gmail.com**
 
-- ⚡ Fun fact **I have been cubing since 5th grade, and programming since 6th. I am now in 11th grade. Ask me anything in Discussions, fr more info about ME!** 
+- ⚡ Fun fact **I have been cubing since 5th grade, and programming since 6th. I am now in 11th grade. Ask me anything in Discussions, for more info about ME!** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
