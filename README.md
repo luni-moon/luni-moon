@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#779](https://github.com/juliangarnier/anime/issues/779) in [juliangarnier/anime](https://github.com/juliangarnier/anime)
+1. ❗️ Closed issue [#79](https://github.com/ryo-ma/github-profile-trophy/issues/79) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 <!--END_SECTION:activity-->
