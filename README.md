@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#79](https://github.com/ryo-ma/github-profile-trophy/issues/79) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+1. ❗️ Closed issue [#125](https://github.com/blueedgetechno/windows11/issues/125) in [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11)
 <!--END_SECTION:activity-->
