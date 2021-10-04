@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Lukas-Batema/lukas-batema.github.io/pull/7) in [Lukas-Batema/lukas-batema.github.io](https://github.com/Lukas-Batema/lukas-batema.github.io)
+1. 🎉 Merged PR [#8](https://github.com/Lukas-Batema/lukas-batema.github.io/pull/8) in [Lukas-Batema/lukas-batema.github.io](https://github.com/Lukas-Batema/lukas-batema.github.io)
 <!--END_SECTION:activity-->
