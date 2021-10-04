@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#779](https://github.com/juliangarnier/anime/issues/779) in [juliangarnier/anime](https://github.com/juliangarnier/anime)
+1. 🎉 Merged PR [#7](https://github.com/Lukas-Batema/lukas-batema.github.io/pull/7) in [Lukas-Batema/lukas-batema.github.io](https://github.com/Lukas-Batema/lukas-batema.github.io)
 <!--END_SECTION:activity-->
