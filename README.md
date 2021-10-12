@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/Lukas-Batema/lukas-batema.github.io/issues/9) in [Lukas-Batema/lukas-batema.github.io](https://github.com/Lukas-Batema/lukas-batema.github.io)
+1. 🗣 Commented on [#778](https://github.com/juliangarnier/anime/issues/778) in [juliangarnier/anime](https://github.com/juliangarnier/anime)
 <!--END_SECTION:activity-->
