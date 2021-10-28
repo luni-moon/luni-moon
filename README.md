@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Korabi-dev/Staff-Bot/issues/1) in [Korabi-dev/Staff-Bot](https://github.com/Korabi-dev/Staff-Bot)
+1. 💪 Opened PR [#5](https://github.com/fetchcord/fetchcord.github.io/pull/5) in [fetchcord/fetchcord.github.io](https://github.com/fetchcord/fetchcord.github.io)
 <!--END_SECTION:activity-->
