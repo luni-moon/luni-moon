@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#103](https://github.com/blueedgetechno/win11React/issues/103) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+1. ❗️ Opened issue [#22](https://github.com/PedestriaMC-Network/PedestriapediaOfficial/issues/22) in [PedestriaMC-Network/PedestriapediaOfficial](https://github.com/PedestriaMC-Network/PedestriapediaOfficial)
 <!--END_SECTION:activity-->
