@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Lukas-Batema/win11React/pull/1) in [Lukas-Batema/win11React](https://github.com/Lukas-Batema/win11React)
+1. 🎉 Merged PR [#1](https://github.com/Lukas-Batema/win11React/pull/1) in [Lukas-Batema/win11React](https://github.com/Lukas-Batema/win11React)
 <!--END_SECTION:activity-->
