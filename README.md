@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#25](https://github.com/theopcoder/PedestriaBotOfficial/pull/25) in [theopcoder/PedestriaBotOfficial](https://github.com/theopcoder/PedestriaBotOfficial)
+1. 🗣 Commented on [#229](https://github.com/thebaselab/codeapp/issues/229) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
 <!--END_SECTION:activity-->
