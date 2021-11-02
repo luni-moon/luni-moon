@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#22](https://github.com/PedestriaMC-Network/PedestriapediaOfficial/issues/22) in [PedestriaMC-Network/PedestriapediaOfficial](https://github.com/PedestriaMC-Network/PedestriapediaOfficial)
+1. ❌ Closed PR [#217](https://github.com/git-touch/git-touch/pull/217) in [git-touch/git-touch](https://github.com/git-touch/git-touch)
 <!--END_SECTION:activity-->
