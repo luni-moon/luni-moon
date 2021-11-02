@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#217](https://github.com/git-touch/git-touch/pull/217) in [git-touch/git-touch](https://github.com/git-touch/git-touch)
+1. ❌ Closed PR [#25](https://github.com/theopcoder/PedestriaBotOfficial/pull/25) in [theopcoder/PedestriaBotOfficial](https://github.com/theopcoder/PedestriaBotOfficial)
 <!--END_SECTION:activity-->
