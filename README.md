@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/thebaselab/codeapp/issues/28) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
+1. 🗣 Commented on [#12](https://github.com/TheAlphaReturns/inertia/issues/12) in [TheAlphaReturns/inertia](https://github.com/TheAlphaReturns/inertia)
 <!--END_SECTION:activity-->
