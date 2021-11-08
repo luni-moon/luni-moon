@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Lukas-Batema/pyslots/pull/1) in [Lukas-Batema/pyslots](https://github.com/Lukas-Batema/pyslots)
+1. ❗️ Opened issue [#789](https://github.com/juliangarnier/anime/issues/789) in [juliangarnier/anime](https://github.com/juliangarnier/anime)
 <!--END_SECTION:activity-->
