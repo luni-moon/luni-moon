@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Lukas-Batema/lukas-batema.github.io/pull/10) in [Lukas-Batema/lukas-batema.github.io](https://github.com/Lukas-Batema/lukas-batema.github.io)
+1. 🗣 Commented on [#229](https://github.com/thebaselab/codeapp/issues/229) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
 <!--END_SECTION:activity-->
