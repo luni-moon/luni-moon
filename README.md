@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#229](https://github.com/thebaselab/codeapp/issues/229) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
+1. 💪 Opened PR [#88](https://github.com/railwayapp/docs/pull/88) in [railwayapp/docs](https://github.com/railwayapp/docs)
 <!--END_SECTION:activity-->
