@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Lukas-Batema/pyslots/pull/3) in [Lukas-Batema/pyslots](https://github.com/Lukas-Batema/pyslots)
+1. 🎉 Merged PR [#2](https://github.com/Lukas-Batema/pyslots/pull/2) in [Lukas-Batema/pyslots](https://github.com/Lukas-Batema/pyslots)
 <!--END_SECTION:activity-->
