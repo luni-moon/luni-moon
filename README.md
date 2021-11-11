@@ -164,5 +164,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/Lukas-Batema/pyslots/issues/5) in [Lukas-Batema/pyslots](https://github.com/Lukas-Batema/pyslots)
+1. 💪 Opened PR [#8](https://github.com/Lukas-Batema/pyslots/pull/8) in [Lukas-Batema/pyslots](https://github.com/Lukas-Batema/pyslots)
 <!--END_SECTION:activity-->
