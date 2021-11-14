@@ -53,5 +53,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#787](https://github.com/juliangarnier/anime/issues/787) in [juliangarnier/anime](https://github.com/juliangarnier/anime)
+1. 🗣 Commented on [#150](https://github.com/MrPotatoBobx/FetchCord/issues/150) in [MrPotatoBobx/FetchCord](https://github.com/MrPotatoBobx/FetchCord)
 <!--END_SECTION:activity-->
