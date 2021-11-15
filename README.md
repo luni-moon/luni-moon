@@ -53,5 +53,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/thebaselab/codeapp/issues/126) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
+1. 🗣 Commented on [#151](https://github.com/MrPotatoBobx/FetchCord/issues/151) in [MrPotatoBobx/FetchCord](https://github.com/MrPotatoBobx/FetchCord)
 <!--END_SECTION:activity-->
