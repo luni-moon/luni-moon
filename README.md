@@ -10,7 +10,7 @@
 
 <p align="center"> <a href="https://twitter.com/batema_lukas" target="blank"><img src="https://img.shields.io/twitter/follow/batema_lukas?logo=twitter&style=for-the-badge" alt="batema_lukas" /></a> </p>
 
-- 🔭 I’m currently working on **[macOS Webalina (A web-based macOS Catalina) (a WIP)](https://dev.catalina.batemadevelopment.com/)**
+- 🔭 I’m currently working on **[FetchCord](https://github.com/MrPotatoBobx/FetchCord)**
 
 - 🧑‍🤝‍🧑 I’m looking to collaborate on **Open-Source Projects**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **lukasbatema@gmail.com**
 
-- ⚡ Fun fact **I have been cubing since 5th grade, and programming since 6th. I am now in 11th grade. Ask me anything in Discussions, for more info about ME!** 
+- ⚡ Fun fact **I have been cubing since 5th grade, and programming since 6th. I am now in 11th grade. Also, I main Alpine Linux. Ask me anything in Discussions, for more info about ME!** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
