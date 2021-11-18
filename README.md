@@ -53,5 +53,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#149](https://github.com/MrPotatoBobx/FetchCord/issues/149) in [MrPotatoBobx/FetchCord](https://github.com/MrPotatoBobx/FetchCord)
+1. 🗣 Commented on [#23](https://github.com/PedestriaMC-Network/PedestriapediaOfficial/issues/23) in [PedestriaMC-Network/PedestriapediaOfficial](https://github.com/PedestriaMC-Network/PedestriapediaOfficial)
 <!--END_SECTION:activity-->
