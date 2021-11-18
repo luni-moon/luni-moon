@@ -53,5 +53,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/PedestriaMC-Network/PedestriapediaOfficial/issues/23) in [PedestriaMC-Network/PedestriapediaOfficial](https://github.com/PedestriaMC-Network/PedestriapediaOfficial)
+1. ❗️ Closed issue [#23](https://github.com/PedestriaMC-Network/PedestriapediaOfficial/issues/23) in [PedestriaMC-Network/PedestriapediaOfficial](https://github.com/PedestriaMC-Network/PedestriapediaOfficial)
 <!--END_SECTION:activity-->
