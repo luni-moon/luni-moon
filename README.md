@@ -39,6 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukas-batema&show_icons=true&theme=dark&locale=en" alt="lukas-batema" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukas-batema&theme=dark" alt="lukas-batema" /></p>
+
 ### Other Things
 <table>
   <tr>
