@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#94](https://github.com/railwayapp/docs/pull/94) in [railwayapp/docs](https://github.com/railwayapp/docs)
+1. 🗣 Commented on [#188](https://github.com/MrPotatoBobx/FetchCord/issues/188) in [MrPotatoBobx/FetchCord](https://github.com/MrPotatoBobx/FetchCord)
 <!--END_SECTION:activity-->
