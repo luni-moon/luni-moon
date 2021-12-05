@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#188](https://github.com/MrPotatoBobx/FetchCord/issues/188) in [MrPotatoBobx/FetchCord](https://github.com/MrPotatoBobx/FetchCord)
+1. 💪 Opened PR [#42](https://github.com/win11bot/win11bot/pull/42) in [win11bot/win11bot](https://github.com/win11bot/win11bot)
 <!--END_SECTION:activity-->
