@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Asylum-os/win11react-docs/pull/1) in [Asylum-os/win11react-docs](https://github.com/Asylum-os/win11react-docs)
+1. 🗣 Commented on [#65](https://github.com/win11bot/win11bot/issues/65) in [win11bot/win11bot](https://github.com/win11bot/win11bot)
 <!--END_SECTION:activity-->
