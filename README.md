@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#238](https://github.com/blueedgetechno/win11React/issues/238) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+1. 💪 Opened PR [#1](https://github.com/Asylum-os/win11react-docs/pull/1) in [Asylum-os/win11react-docs](https://github.com/Asylum-os/win11react-docs)
 <!--END_SECTION:activity-->
