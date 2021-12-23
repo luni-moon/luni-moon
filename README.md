@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/MindShow/USBDisplay/issues/15) in [MindShow/USBDisplay](https://github.com/MindShow/USBDisplay)
+1. 🗣 Commented on [#76](https://github.com/win11bot/win11bot/issues/76) in [win11bot/win11bot](https://github.com/win11bot/win11bot)
 <!--END_SECTION:activity-->
