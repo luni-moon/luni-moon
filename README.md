@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/win11bot/win11bot/issues/76) in [win11bot/win11bot](https://github.com/win11bot/win11bot)
+1. 💪 Opened PR [#1](https://github.com/Lukas-Batema/deploy-code-server/pull/1) in [Lukas-Batema/deploy-code-server](https://github.com/Lukas-Batema/deploy-code-server)
 <!--END_SECTION:activity-->
