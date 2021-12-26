@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Lukas-Batema/deploy-code-server/pull/1) in [Lukas-Batema/deploy-code-server](https://github.com/Lukas-Batema/deploy-code-server)
+1. 🗣 Commented on [#252](https://github.com/blueedgetechno/win11React/issues/252) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 <!--END_SECTION:activity-->
