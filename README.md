@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Lukas-Batema/Lukas-Batema/issues/3) in [Lukas-Batema/Lukas-Batema](https://github.com/Lukas-Batema/Lukas-Batema)
+1. 🗣 Commented on [#191](https://github.com/MrPotatoBobx/FetchCord/issues/191) in [MrPotatoBobx/FetchCord](https://github.com/MrPotatoBobx/FetchCord)
 <!--END_SECTION:activity-->
