@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#258](https://github.com/blueedgetechno/win11React/issues/258) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+1. 🗣 Commented on [#3](https://github.com/Lukas-Batema/Lukas-Batema/issues/3) in [Lukas-Batema/Lukas-Batema](https://github.com/Lukas-Batema/Lukas-Batema)
 <!--END_SECTION:activity-->
