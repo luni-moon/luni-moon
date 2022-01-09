@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/win11bot/win11bot/pull/91) in [win11bot/win11bot](https://github.com/win11bot/win11bot)
+1. 🗣 Commented on [#578](https://github.com/ish-app/ish/issues/578) in [ish-app/ish](https://github.com/ish-app/ish)
 <!--END_SECTION:activity-->
