@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#578](https://github.com/ish-app/ish/issues/578) in [ish-app/ish](https://github.com/ish-app/ish)
+1. 🗣 Commented on [#796](https://github.com/juliangarnier/anime/issues/796) in [juliangarnier/anime](https://github.com/juliangarnier/anime)
 <!--END_SECTION:activity-->
