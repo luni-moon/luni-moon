@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/Lukas-Batema/Lukas-Batema/issues/3) in [Lukas-Batema/Lukas-Batema](https://github.com/Lukas-Batema/Lukas-Batema)
+1. 🗣 Commented on [#15](https://github.com/MindShow/USBDisplay/issues/15) in [MindShow/USBDisplay](https://github.com/MindShow/USBDisplay)
 <!--END_SECTION:activity-->
