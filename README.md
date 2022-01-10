@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#796](https://github.com/juliangarnier/anime/issues/796) in [juliangarnier/anime](https://github.com/juliangarnier/anime)
+1. ❗️ Closed issue [#15](https://github.com/MindShow/USBDisplay/issues/15) in [MindShow/USBDisplay](https://github.com/MindShow/USBDisplay)
 <!--END_SECTION:activity-->
