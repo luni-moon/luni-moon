@@ -56,5 +56,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/MindShow/USBDisplay/issues/15) in [MindShow/USBDisplay](https://github.com/MindShow/USBDisplay)
+1. ❗️ Opened issue [#328](https://github.com/thebaselab/codeapp/issues/328) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
 <!--END_SECTION:activity-->
