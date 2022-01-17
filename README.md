@@ -56,5 +56,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#767](https://github.com/juliangarnier/anime/issues/767) in [juliangarnier/anime](https://github.com/juliangarnier/anime)
+1. 🗣 Commented on [#303](https://github.com/thebaselab/codeapp/issues/303) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
 <!--END_SECTION:activity-->
