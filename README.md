@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **lukasbatema@gmail.com**
 
-- ⚡ Fun fact **I have been cubing since 5th grade, and programming since 6th. I am now in 11th grade. Also, I main Debian Linux. Ask me anything in Discussions, for more info about ME!** 
+- ⚡ Fun fact **I have been cubing since 5th grade, and programming since 6th. I am now in 11th grade. Ask me anything in Discussions, for more info about ME!** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,7 +44,7 @@
 <table>
   <tr>
     <td>
-      <img alt="Official Site" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&style=for-the-badge&url=https://www.batemadevelopment.com/" /><img alt="Latest Release" src="https://img.shields.io/github/v/release/Lukas-Batema/lukas-batema.github.io?style=for-the-badge&include_prereleases" /><img alt="Official Website" src="https://img.shields.io/github/repo-size/Lukas-Batema/BatemaDevelopment?style=for-the-badge" /><img alt="Discord" src="https://img.shields.io/badge/Discord-GameHogPlays%230119-blue?style=for-the-badge" />
+      <img alt="Official Site" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&style=for-the-badge&url=https://www.batemadevelopment.com/" /><img alt="Latest Release" src="https://img.shields.io/github/v/release/Lukas-Batema/lukas-batema.github.io?style=for-the-badge&include_prereleases" /><img alt="Official Website" src="https://img.shields.io/github/repo-size/Lukas-Batema/BatemaDevelopment?style=for-the-badge" /><img alt="Discord" src="https://img.shields.io/badge/Discord-BatemaDevelopment%230119-blue?style=for-the-badge" />
     </td>
   </tr>
 </table>
