@@ -10,7 +10,7 @@
 
 <p align="center"> <a href="https://twitter.com/batema_lukas" target="blank"><img src="https://img.shields.io/twitter/follow/batema_lukas?logo=twitter&style=for-the-badge" alt="batema_lukas" /></a> </p>
 
-- 🔭 I’m currently working on **[FetchCord](https://github.com/MrPotatoBobx/FetchCord)** and **[Learing Rust In Public](https://github.com/lukas-batema/learning-rust)**
+- 🔭 I’m currently working on **[BatemaDevelopment](https://github.com/lukas-batema/lukas-batema.github.io)** and **[Learing Rust In Public](https://github.com/lukas-batema/learning-rust)**
 
 - 🧑‍🤝‍🧑 I’m looking to collaborate on **Open-Source Projects**
 
@@ -39,8 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukas-batema&show_icons=true&theme=dark&locale=en" alt="lukas-batema" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukas-batema&theme=dark" alt="lukas-batema" /></p>
-
-<p><img src="https://wakatime.com/share/@Lukas_Batema/1e54a620-1a29-4148-8e53-73f5d6afb1e1.svg" /></p>
 
 ### Other Things
 <table>
