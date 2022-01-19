@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [www.batemadevelopment.com](https://www.batemadevelopment.com/)
 
-- 💬 Ask me about **JS, jQuery, HTML5, and CSS3**
+- 💬 Ask me about **HTML5, JS, and CSS3**
 
 - 📫 How to reach me **lukasbatema@gmail.com**
 
