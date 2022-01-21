@@ -1,4 +1,4 @@
-![macOS Catalina](assets/macOS_Catalina.JPG)
+![BatemaDevelopment](assets/BatemaDevelopment.PNG)
 ---
 <h1 align="center">Lukas Batema</h1>
 <h3 align="center">BatemaDevelopment | Keeping Code Public | Established: January 17, 2021</h3>
