@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/win11react/store/issues/97) in [win11react/store](https://github.com/win11react/store)
+1. 🎉 Merged PR [#1](https://github.com/Lukas-Batema/uwu.batemadevelopment.com/pull/1) in [Lukas-Batema/uwu.batemadevelopment.com](https://github.com/Lukas-Batema/uwu.batemadevelopment.com)
 <!--END_SECTION:activity-->
