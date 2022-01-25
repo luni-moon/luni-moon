@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Lukas-Batema/uwu.batemadevelopment.com/pull/1) in [Lukas-Batema/uwu.batemadevelopment.com](https://github.com/Lukas-Batema/uwu.batemadevelopment.com)
+1. 🗣 Commented on [#248](https://github.com/blueedgetechno/win11React/issues/248) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 <!--END_SECTION:activity-->
