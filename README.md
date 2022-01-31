@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#277](https://github.com/blueedgetechno/win11React/issues/277) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+1. 🎉 Merged PR [#2](https://github.com/Lukas-Batema/win11-docs/pull/2) in [Lukas-Batema/win11-docs](https://github.com/Lukas-Batema/win11-docs)
 <!--END_SECTION:activity-->
