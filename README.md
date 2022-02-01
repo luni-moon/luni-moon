@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#286](https://github.com/blueedgetechno/win11React/issues/286) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+1. 🗣 Commented on [#12](https://github.com/TheAlphaReturns/inertia/issues/12) in [TheAlphaReturns/inertia](https://github.com/TheAlphaReturns/inertia)
 <!--END_SECTION:activity-->
