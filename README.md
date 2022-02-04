@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#142222](https://github.com/microsoft/vscode/issues/142222) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#290](https://github.com/blueedgetechno/win11React/issues/290) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 <!--END_SECTION:activity-->
