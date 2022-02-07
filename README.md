@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/win11react/store/issues/13) in [win11react/store](https://github.com/win11react/store)
+1. ❗️ Closed issue [#7](https://github.com/Lukas-Batema/pyslots/issues/7) in [Lukas-Batema/pyslots](https://github.com/Lukas-Batema/pyslots)
 <!--END_SECTION:activity-->
