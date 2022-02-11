@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/win11react/store/issues/10) in [win11react/store](https://github.com/win11react/store)
+1. 🗣 Commented on [#299](https://github.com/blueedgetechno/win11React/issues/299) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 <!--END_SECTION:activity-->
