@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#22](https://github.com/win11react/store/issues/22) in [win11react/store](https://github.com/win11react/store)
+1. 🗣 Commented on [#23](https://github.com/wagenaartje/stocks.js/issues/23) in [wagenaartje/stocks.js](https://github.com/wagenaartje/stocks.js)
 <!--END_SECTION:activity-->
