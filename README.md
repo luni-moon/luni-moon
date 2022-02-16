@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#821](https://github.com/anuraghazra/github-readme-stats/issues/821) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+1. 🗣 Commented on [#23](https://github.com/wagenaartje/stocks.js/issues/23) in [wagenaartje/stocks.js](https://github.com/wagenaartje/stocks.js)
 <!--END_SECTION:activity-->
