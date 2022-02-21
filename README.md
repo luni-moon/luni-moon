@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/nebulatgs/zeppelin-railway/pull/2) in [nebulatgs/zeppelin-railway](https://github.com/nebulatgs/zeppelin-railway)
+1. ❗️ Closed issue [#240](https://github.com/blueedgetechno/win11React/issues/240) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 <!--END_SECTION:activity-->
