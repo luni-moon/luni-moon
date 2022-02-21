@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/win11react/store/issues/21) in [win11react/store](https://github.com/win11react/store)
+1. 💪 Opened PR [#2](https://github.com/nebulatgs/zeppelin-railway/pull/2) in [nebulatgs/zeppelin-railway](https://github.com/nebulatgs/zeppelin-railway)
 <!--END_SECTION:activity-->
