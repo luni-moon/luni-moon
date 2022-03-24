@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Lukas-Batema/win11React/pull/2) in [Lukas-Batema/win11React](https://github.com/Lukas-Batema/win11React)
+1. 🗣 Commented on [#28](https://github.com/thebaselab/codeapp/issues/28) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
 <!--END_SECTION:activity-->
