@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/win11react/store/issues/111) in [win11react/store](https://github.com/win11react/store)
+1. 🗣 Commented on [#400](https://github.com/thebaselab/codeapp/issues/400) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
 <!--END_SECTION:activity-->
