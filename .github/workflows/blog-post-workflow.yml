@@ -14,6 +14,6 @@ jobs:
       - name: Pull in my YouTube Channels's posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCBhgeQ1GV4acZ61fB8YPlIQ,https://www.youtube.com/feeds/videos.xml?channel_id=UCRifM7l2KAL9Bedwm8Mdsgg,https://www.youtube.com/feeds/videos.xml?channel_id=UCVOd5Ua0xxoPfupKVb4BMVw,https://www.youtube.com/feeds/videos.xml?channel_id=UCD0iVhUXUSWJk0yu7fsRJ1Q"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCBhgeQ1GV4acZ61fB8YPlIQ,https://www.youtube.com/feeds/videos.xml?channel_id=UCRifM7I2KAL9Bedwm8Mdsgg,https://www.youtube.com/feeds/videos.xml?channel_id=UCVOd5Ua0xxoPfupKVb4BMVw,https://www.youtube.com/feeds/videos.xml?channel_id=UCD0iVhUXUSWJk0yu7fsRJ1Q"
           
           
