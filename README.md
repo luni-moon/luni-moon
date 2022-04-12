@@ -61,4 +61,9 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
+- [More Peaceful Speedrunning...](https://www.youtube.com/watch?v=CeXMKXLDYWU)
+- [EVEN More Peaceful Speedrunning...](https://www.youtube.com/watch?v=SI54-cGyHOg)
+- [More Peaceful Speedrunning...](https://www.youtube.com/watch?v=0qrdTfNIRhA)
+- [More Peaceful Speedrunning...](https://www.youtube.com/watch?v=XtwEh_hOf8E)
+- [Peaceful Speedrunning 1.18.1 cause why not](https://www.youtube.com/watch?v=FNg7_AYcJGs)
 <!-- BLOG-POST-LIST:END -->
