@@ -22,6 +22,8 @@
 
 - ⚡ Fun fact **I have been cubing since 5th grade, and programming since 6th. I am now in 11th grade. Ask me anything in Discussions, for more info about ME!** 
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/581871849256910848)](https://discord.com/users/581871849256910848)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/batemadevelopment" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="batemadevelopment" height="30" width="40" /></a>
