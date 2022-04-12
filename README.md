@@ -54,5 +54,5 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#400](https://github.com/thebaselab/codeapp/issues/400) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
+1. 🗣 Commented on [#416](https://github.com/thebaselab/codeapp/issues/416) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
 <!--END_SECTION:activity-->
