@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#129](https://github.com/win11react/store/issues/129) in [win11react/store](https://github.com/win11react/store)
+1. 🗣 Commented on [#2651](https://github.com/brianc/node-postgres/issues/2651) in [brianc/node-postgres](https://github.com/brianc/node-postgres)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
