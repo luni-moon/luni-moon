@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2651](https://github.com/brianc/node-postgres/issues/2651) in [brianc/node-postgres](https://github.com/brianc/node-postgres)
+1. ❗️ Opened issue [#269](https://github.com/wakatime/vscode-wakatime/issues/269) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
