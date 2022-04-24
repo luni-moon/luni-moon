@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#269](https://github.com/wakatime/vscode-wakatime/issues/269) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
+1. 🗣 Commented on [#200](https://github.com/MrPotatoBobx/FetchCord/issues/200) in [MrPotatoBobx/FetchCord](https://github.com/MrPotatoBobx/FetchCord)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
