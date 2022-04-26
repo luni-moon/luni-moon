@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com/win11react/store/issues/137) in [win11react/store](https://github.com/win11react/store)
+1. 🗣 Commented on [#281](https://github.com/git-touch/git-touch/issues/281) in [git-touch/git-touch](https://github.com/git-touch/git-touch)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
