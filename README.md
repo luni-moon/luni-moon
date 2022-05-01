@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Lukas-Batema/Docker-Discord-Bot/pull/2) in [Lukas-Batema/Docker-Discord-Bot](https://github.com/Lukas-Batema/Docker-Discord-Bot)
+1. 🗣 Commented on [#356](https://github.com/blueedgetechno/win11React/issues/356) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
