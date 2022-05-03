@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/Lukas-Batema/Dockercord-Bot/pull/9) in [Lukas-Batema/Dockercord-Bot](https://github.com/Lukas-Batema/Dockercord-Bot)
+1. 🎉 Merged PR [#9](https://github.com/Lukas-Batema/Dockercord-Bot/pull/9) in [Lukas-Batema/Dockercord-Bot](https://github.com/Lukas-Batema/Dockercord-Bot)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
