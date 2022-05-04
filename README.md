@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7881](https://github.com/discordjs/discord.js/issues/7881) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+1. 🎉 Merged PR [#10](https://github.com/Lukas-Batema/Dockercord-Bot/pull/10) in [Lukas-Batema/Dockercord-Bot](https://github.com/Lukas-Batema/Dockercord-Bot)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
