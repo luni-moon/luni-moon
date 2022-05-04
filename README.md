@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7881](https://github.com/discordjs/discord.js/issues/7881) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+1. ❗️ Closed issue [#434](https://github.com/thebaselab/codeapp/issues/434) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
