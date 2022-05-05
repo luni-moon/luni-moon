@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Lukas-Batema/Dockercord-Bot/pull/10) in [Lukas-Batema/Dockercord-Bot](https://github.com/Lukas-Batema/Dockercord-Bot)
+1. 🗣 Commented on [#148771](https://github.com/microsoft/vscode/issues/148771) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
