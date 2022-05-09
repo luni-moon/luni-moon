@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/win11react/oobe/pull/2) in [win11react/oobe](https://github.com/win11react/oobe)
+1. 🎉 Merged PR [#154](https://github.com/win11react/store/pull/154) in [win11react/store](https://github.com/win11react/store)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
