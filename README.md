@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Lukas-Batema/lukas-batema.github.io/pull/11) in [Lukas-Batema/lukas-batema.github.io](https://github.com/Lukas-Batema/lukas-batema.github.io)
+1. 🎉 Merged PR [#15](https://github.com/Lukas-Batema/lukas-batema.github.io/pull/15) in [Lukas-Batema/lukas-batema.github.io](https://github.com/Lukas-Batema/lukas-batema.github.io)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
