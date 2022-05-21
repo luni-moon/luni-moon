@@ -61,9 +61,9 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
-- [More Peaceful Speedrunning...](https://www.youtube.com/watch?v=CeXMKXLDYWU)
-- [EVEN More Peaceful Speedrunning...](https://www.youtube.com/watch?v=SI54-cGyHOg)
-- [More Peaceful Speedrunning...](https://www.youtube.com/watch?v=0qrdTfNIRhA)
-- [More Peaceful Speedrunning...](https://www.youtube.com/watch?v=XtwEh_hOf8E)
-- [Peaceful Speedrunning 1.18.1 cause why not](https://www.youtube.com/watch?v=FNg7_AYcJGs)
+- [Suddenly](https://www.youtube.com/watch?v=vsfUxVUG-W0)
+- [It’s Only the Beginning](https://www.youtube.com/watch?v=-xv6iAnZSPQ)
+- [Livin’ The Meaning Of Life](https://www.youtube.com/watch?v=TR2MYFMp3uY)
+- [Fear No Man](https://www.youtube.com/watch?v=H69QYCkpf8k)
+- [Interlude](https://www.youtube.com/watch?v=B8yxvb0bozU)
 <!-- BLOG-POST-LIST:END -->
