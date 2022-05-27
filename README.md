@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#448](https://github.com/blueedgetechno/win11React/issues/448) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+1. ❗️ Closed issue [#463](https://github.com/blueedgetechno/win11React/issues/463) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
