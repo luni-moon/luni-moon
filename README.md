@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2553](https://github.com/is-a-dev/register/pull/2553) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🗣 Commented on [#2553](https://github.com/is-a-dev/register/issues/2553) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
