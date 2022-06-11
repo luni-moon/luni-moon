@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#517](https://github.com/blueedgetechno/win11React/pull/517) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+1. 🗣 Commented on [#517](https://github.com/blueedgetechno/win11React/issues/517) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
