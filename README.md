@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#522](https://github.com/blueedgetechno/win11React/pull/522) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+1. ❗️ Opened issue [#523](https://github.com/blueedgetechno/win11React/issues/523) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
