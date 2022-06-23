@@ -10,7 +10,7 @@
 
 <p align="center"> <a href="https://twitter.com/batema_lukas" target="blank"><img src="https://img.shields.io/twitter/follow/batema_lukas?logo=twitter&style=for-the-badge" alt="batema_lukas" /></a> </p>
 
-- 🔭 I’m currently working on **[BatemaDevelopment](https://github.com/lukas-batema/lukas-batema.github.io)**
+- 🔭 I’m currently working on **[FetchCord](https://github.com/fetchcord/FetchCord)** and **[cubelang](javascript:void(0))**
 
 - 🧑‍🤝‍🧑 I’m looking to collaborate on **Open-Source Projects**
 
