@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#205](https://github.com/fetchcord/FetchCord/issues/205) in [fetchcord/FetchCord](https://github.com/fetchcord/FetchCord)
+1. 🗣 Commented on [#301](https://github.com/blueedgetechno/win11React/issues/301) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
