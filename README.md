@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#505](https://github.com/thebaselab/codeapp/issues/505) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
+1. 🗣 Commented on [#505](https://github.com/thebaselab/codeapp/issues/505) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
