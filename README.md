@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/beltex/dshb/issues/43) in [beltex/dshb](https://github.com/beltex/dshb)
+1. 🗣 Commented on [#172](https://github.com/win11react/store/issues/172) in [win11react/store](https://github.com/win11react/store)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
