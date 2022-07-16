@@ -67,3 +67,7 @@
 - [Fear No Man](https://www.youtube.com/watch?v=H69QYCkpf8k)
 - [Interlude](https://www.youtube.com/watch?v=B8yxvb0bozU)
 <!-- BLOG-POST-LIST:END -->
+
+### ShockByte Affilite Link
+<a href="https://shockbyte.com/billing/aff.php?aff=4706"><img src="https://shockbyte.com/assets/img/partners/twitch/shockbyte_affiliate.png" alt="Minecraft Server Hosting" /></a>
+###### (Click the image for it to work)
