@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#172](https://github.com/win11react/store/issues/172) in [win11react/store](https://github.com/win11react/store)
+1. 🎉 Merged PR [#47](https://github.com/Lukas-Batema/batemadevelopment.com/pull/47) in [Lukas-Batema/batemadevelopment.com](https://github.com/Lukas-Batema/batemadevelopment.com)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
