@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/Lukas-Batema/batemadevelopment.com/pull/47) in [Lukas-Batema/batemadevelopment.com](https://github.com/Lukas-Batema/batemadevelopment.com)
+1. 🗣 Commented on [#1](https://github.com/NoScapeDev/TokenEconomy/issues/1) in [NoScapeDev/TokenEconomy](https://github.com/NoScapeDev/TokenEconomy)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
