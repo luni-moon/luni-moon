@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/NoScapeDev/TokenEconomy/issues/1) in [NoScapeDev/TokenEconomy](https://github.com/NoScapeDev/TokenEconomy)
+1. 🗣 Commented on [#3180](https://github.com/GeyserMC/Geyser/issues/3180) in [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
