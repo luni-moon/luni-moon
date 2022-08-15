@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3180](https://github.com/GeyserMC/Geyser/issues/3180) in [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser)
+1. 🗣 Commented on [#36](https://github.com/is-a-dev/test-project/issues/36) in [is-a-dev/test-project](https://github.com/is-a-dev/test-project)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
