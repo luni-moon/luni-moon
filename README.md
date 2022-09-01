@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#168](https://github.com/win11react/store/issues/168) in [win11react/store](https://github.com/win11react/store)
+1. ❌ Closed PR [#182](https://github.com/win11react/store/pull/182) in [win11react/store](https://github.com/win11react/store)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
