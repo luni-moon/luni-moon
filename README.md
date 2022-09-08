@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#182](https://github.com/win11react/store/pull/182) in [win11react/store](https://github.com/win11react/store)
+1. ❗️ Opened issue [#568](https://github.com/thebaselab/codeapp/issues/568) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
