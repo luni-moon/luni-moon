@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#511](https://github.com/spckio/spck-issues/issues/511) in [spckio/spck-issues](https://github.com/spckio/spck-issues)
+1. ❗️ Closed issue [#789](https://github.com/juliangarnier/anime/issues/789) in [juliangarnier/anime](https://github.com/juliangarnier/anime)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
