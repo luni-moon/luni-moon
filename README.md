@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#789](https://github.com/juliangarnier/anime/issues/789) in [juliangarnier/anime](https://github.com/juliangarnier/anime)
+1. ❗️ Opened issue [#2895](https://github.com/nvm-sh/nvm/issues/2895) in [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
