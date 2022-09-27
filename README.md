@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2895](https://github.com/nvm-sh/nvm/issues/2895) in [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+1. 💪 Opened PR [#2896](https://github.com/nvm-sh/nvm/pull/2896) in [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
