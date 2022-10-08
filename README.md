@@ -20,7 +20,7 @@
 
 - 📫 How to reach me [lukasbatema@mg.batemadevelopment.com](mailto:lukasbatema@mg.batemadevelopment.com)
 
-- ⚡ Fun fact **I have been cubing since 5th grade, and programming since 6th. I am now in 11th grade. Ask me anything in Discussions, for more info about ME!** 
+- ⚡ Fun fact **I have been cubing since 5th grade, and programming since 6th. I am now in 12th grade. Ask me anything in Discussions, for more info about ME!** 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/581871849256910848)](https://discord.com/users/581871849256910848)
 
