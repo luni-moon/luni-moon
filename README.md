@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#779](https://github.com/juliangarnier/anime/issues/779) in [juliangarnier/anime](https://github.com/juliangarnier/anime)
+1. 🗣 Commented on [#162](https://github.com/win11react/store/issues/162) in [win11react/store](https://github.com/win11react/store)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
