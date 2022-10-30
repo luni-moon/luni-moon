@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#612](https://github.com/thebaselab/codeapp/issues/612) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
+1. 🗣 Commented on [#558](https://github.com/ValveSoftware/SteamOS/issues/558) in [ValveSoftware/SteamOS](https://github.com/ValveSoftware/SteamOS)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
