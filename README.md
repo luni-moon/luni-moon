@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#558](https://github.com/ValveSoftware/SteamOS/issues/558) in [ValveSoftware/SteamOS](https://github.com/ValveSoftware/SteamOS)
+1. 💪 Opened PR [#1](https://github.com/DragonswordMCS/.github/pull/1) in [DragonswordMCS/.github](https://github.com/DragonswordMCS/.github)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
