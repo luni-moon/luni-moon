@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/DragonswordMCS/.github/pull/1) in [DragonswordMCS/.github](https://github.com/DragonswordMCS/.github)
+1. 🗣 Commented on [#169](https://github.com/thebaselab/codeapp/issues/169) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
