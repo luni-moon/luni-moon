@@ -61,11 +61,11 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
+- [Attempting to Beat an RNG game I made That&#39;s Nearly Impossible to Beat...](https://www.youtube.com/watch?v=j2VBein63mE)
 - [Suddenly](https://www.youtube.com/watch?v=vsfUxVUG-W0)
 - [It’s Only the Beginning](https://www.youtube.com/watch?v=-xv6iAnZSPQ)
 - [Livin’ The Meaning Of Life](https://www.youtube.com/watch?v=TR2MYFMp3uY)
 - [Fear No Man](https://www.youtube.com/watch?v=H69QYCkpf8k)
-- [Interlude](https://www.youtube.com/watch?v=B8yxvb0bozU)
 <!-- BLOG-POST-LIST:END -->
 
 ### ShockByte Affiliate Link
