@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/thebaselab/codeapp/issues/28) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
+1. 💪 Opened PR [#2](https://github.com/Lukas-Batema/.devcontainer/pull/2) in [Lukas-Batema/.devcontainer](https://github.com/Lukas-Batema/.devcontainer)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
