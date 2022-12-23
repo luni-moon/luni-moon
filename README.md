@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Lukas-Batema/.devcontainer/pull/2) in [Lukas-Batema/.devcontainer](https://github.com/Lukas-Batema/.devcontainer)
+1. 🗣 Commented on [#551](https://github.com/code-golf/code-golf/issues/551) in [code-golf/code-golf](https://github.com/code-golf/code-golf)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
