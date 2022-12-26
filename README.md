@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#551](https://github.com/code-golf/code-golf/issues/551) in [code-golf/code-golf](https://github.com/code-golf/code-golf)
+1. 💪 Opened PR [#1](https://github.com/MelonicOverlord/beginner-python/pull/1) in [MelonicOverlord/beginner-python](https://github.com/MelonicOverlord/beginner-python)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
