@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/MelonicOverlord/beginner-python/pull/1) in [MelonicOverlord/beginner-python](https://github.com/MelonicOverlord/beginner-python)
+1. 🗣 Commented on [#39](https://github.com/beltex/SystemKit/issues/39) in [beltex/SystemKit](https://github.com/beltex/SystemKit)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
