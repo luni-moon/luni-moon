@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/beltex/SystemKit/issues/39) in [beltex/SystemKit](https://github.com/beltex/SystemKit)
+1. ❌ Closed PR [#39](https://github.com/beltex/SystemKit/pull/39) in [beltex/SystemKit](https://github.com/beltex/SystemKit)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
