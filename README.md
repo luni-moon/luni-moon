@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#836](https://github.com/juliangarnier/anime/issues/836) in [juliangarnier/anime](https://github.com/juliangarnier/anime)
+1. ❗️ Opened issue [#1](https://github.com/DatBoyMax/Pokemon-Spark/issues/1) in [DatBoyMax/Pokemon-Spark](https://github.com/DatBoyMax/Pokemon-Spark)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
