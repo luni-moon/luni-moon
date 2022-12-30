@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/DatBoyMax/Pokemon-Spark/issues/1) in [DatBoyMax/Pokemon-Spark](https://github.com/DatBoyMax/Pokemon-Spark)
+1. 🎉 Merged PR [#1](https://github.com/Lukas-Batema/DarwinScripts/pull/1) in [Lukas-Batema/DarwinScripts](https://github.com/Lukas-Batema/DarwinScripts)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
