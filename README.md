@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Lukas-Batema/DarwinScripts/pull/5) in [Lukas-Batema/DarwinScripts](https://github.com/Lukas-Batema/DarwinScripts)
+1. 🎉 Merged PR [#5](https://github.com/Lukas-Batema/DarwinScripts/pull/5) in [Lukas-Batema/DarwinScripts](https://github.com/Lukas-Batema/DarwinScripts)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
