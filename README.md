@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td>
-      <img alt="Official Site" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&style=for-the-badge&url=https://www.batemadevelopment.com/" /><img alt="Latest Release" src="https://img.shields.io/github/v/release/Lukas-Batema/lukas-batema.github.io?style=for-the-badge&include_prereleases" /><img alt="Official Website" src="https://img.shields.io/github/repo-size/Lukas-Batema/BatemaDevelopment?style=for-the-badge" /><img alt="Discord" src="https://img.shields.io/badge/Discord-BatemaDevelopment%230119-blue?style=for-the-badge" />
+      <img alt="Official Site" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&style=for-the-badge&url=https://batemadevelopment.com/" /><img alt="Latest Release" src="https://img.shields.io/github/v/release/Lukas-Batema/lukas-batema.github.io?style=for-the-badge&include_prereleases" /><img alt="Official Website" src="https://img.shields.io/github/repo-size/Lukas-Batema/BatemaDevelopment?style=for-the-badge" /><img alt="Discord" src="https://img.shields.io/badge/Discord-BatemaDevelopment%230119-blue?style=for-the-badge" />
     </td>
   </tr>
 </table>
@@ -67,7 +67,3 @@
 - [Livin’ The Meaning Of Life](https://www.youtube.com/watch?v=TR2MYFMp3uY)
 - [Fear No Man](https://www.youtube.com/watch?v=H69QYCkpf8k)
 <!-- BLOG-POST-LIST:END -->
-
-### ShockByte Affiliate Link
-<a href="https://shockbyte.com/billing/aff.php?aff=4706"><img src="https://shockbyte.com/assets/img/partners/twitch/shockbyte_affiliate.png" alt="Minecraft Server Hosting" /></a>
-###### (Click the image for it to work)
