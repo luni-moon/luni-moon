@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/MelonicOverlord/beginner-python/pull/2) in [MelonicOverlord/beginner-python](https://github.com/MelonicOverlord/beginner-python)
+1. 🗣 Commented on [#345](https://github.com/juliangarnier/anime/issues/345) in [juliangarnier/anime](https://github.com/juliangarnier/anime)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
