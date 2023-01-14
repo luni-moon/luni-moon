@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/KaspianDev/AntiPopup/issues/30) in [KaspianDev/AntiPopup](https://github.com/KaspianDev/AntiPopup)
+1. 💪 Opened PR [#2](https://github.com/MelonicOverlord/beginner-python/pull/2) in [MelonicOverlord/beginner-python](https://github.com/MelonicOverlord/beginner-python)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
