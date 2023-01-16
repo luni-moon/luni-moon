@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#345](https://github.com/juliangarnier/anime/issues/345) in [juliangarnier/anime](https://github.com/juliangarnier/anime)
+1. 🎉 Merged PR [#24](https://github.com/PedestriaMC-Network/PedestriapediaOfficial/pull/24) in [PedestriaMC-Network/PedestriapediaOfficial](https://github.com/PedestriaMC-Network/PedestriapediaOfficial)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
