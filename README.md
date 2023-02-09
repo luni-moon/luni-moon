@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/andrewstech/is-a-dev-bot/pull/3) in [andrewstech/is-a-dev-bot](https://github.com/andrewstech/is-a-dev-bot)
+1. 💪 Opened PR [#4](https://github.com/oaisd-ctc/student-tracker-project-JaminSmith/pull/4) in [oaisd-ctc/student-tracker-project-JaminSmith](https://github.com/oaisd-ctc/student-tracker-project-JaminSmith)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
