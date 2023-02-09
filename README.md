@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4746](https://github.com/is-a-dev/register/pull/4746) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 💪 Opened PR [#3](https://github.com/andrewstech/is-a-dev-bot/pull/3) in [andrewstech/is-a-dev-bot](https://github.com/andrewstech/is-a-dev-bot)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
