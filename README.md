@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/brianc/node-pg-native/issues/50) in [brianc/node-pg-native](https://github.com/brianc/node-pg-native)
+1. 💪 Opened PR [#4746](https://github.com/is-a-dev/register/pull/4746) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
