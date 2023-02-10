@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/oaisd-ctc/student-tracker-project-JaminSmith/pull/4) in [oaisd-ctc/student-tracker-project-JaminSmith](https://github.com/oaisd-ctc/student-tracker-project-JaminSmith)
+1. 🗣 Commented on [#4](https://github.com/oaisd-ctc/student-tracker-project-JaminSmith/issues/4) in [oaisd-ctc/student-tracker-project-JaminSmith](https://github.com/oaisd-ctc/student-tracker-project-JaminSmith)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
