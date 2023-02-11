@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Lukas-Batema/is-a-dev-bot/pull/1) in [Lukas-Batema/is-a-dev-bot](https://github.com/Lukas-Batema/is-a-dev-bot)
+1. 💪 Opened PR [#4769](https://github.com/is-a-dev/register/pull/4769) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
