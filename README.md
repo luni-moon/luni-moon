@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Lukas-Batema/LunarAurora/issues/2) in [Lukas-Batema/LunarAurora](https://github.com/Lukas-Batema/LunarAurora)
+1. 💪 Opened PR [#1](https://github.com/Roxza/base64/pull/1) in [Roxza/base64](https://github.com/Roxza/base64)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
