@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#252](https://github.com/cs0x7f/cstimer/issues/252) in [cs0x7f/cstimer](https://github.com/cs0x7f/cstimer)
+1. 🎉 Merged PR [#51](https://github.com/Lukas-Batema/batemadevelopment.com/pull/51) in [Lukas-Batema/batemadevelopment.com](https://github.com/Lukas-Batema/batemadevelopment.com)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
