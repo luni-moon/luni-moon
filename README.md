@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/oaisd-ctc/deliverydriver-lukas-batema-student/pull/1) in [oaisd-ctc/deliverydriver-lukas-batema-student](https://github.com/oaisd-ctc/deliverydriver-lukas-batema-student)
+1. 💪 Opened PR [#1](https://github.com/lukas-batema-student/delivery-driver-2/pull/1) in [lukas-batema-student/delivery-driver-2](https://github.com/lukas-batema-student/delivery-driver-2)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
