@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/lukas-batema-student/delivery-driver-2/pull/3) in [lukas-batema-student/delivery-driver-2](https://github.com/lukas-batema-student/delivery-driver-2)
+1. 💪 Opened PR [#10](https://github.com/shandralor/PeerBrain/pull/10) in [shandralor/PeerBrain](https://github.com/shandralor/PeerBrain)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
