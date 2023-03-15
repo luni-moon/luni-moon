@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/railwayapp-templates/flask/issues/4) in [railwayapp-templates/flask](https://github.com/railwayapp-templates/flask)
+1. 🗣 Commented on [#10](https://github.com/shandralor/PeerBrain/issues/10) in [shandralor/PeerBrain](https://github.com/shandralor/PeerBrain)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
