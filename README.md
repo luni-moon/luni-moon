@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Lukas-Batema/PeerBrain/pull/1) in [Lukas-Batema/PeerBrain](https://github.com/Lukas-Batema/PeerBrain)
+1. 🎉 Merged PR [#1](https://github.com/Lukas-Batema/PeerBrain/pull/1) in [Lukas-Batema/PeerBrain](https://github.com/Lukas-Batema/PeerBrain)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
