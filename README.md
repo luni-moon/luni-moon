@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/shandralor/PeerBrain/issues/15) in [shandralor/PeerBrain](https://github.com/shandralor/PeerBrain)
+1. 💪 Opened PR [#1](https://github.com/Lukas-Batema/PeerBrain/pull/1) in [Lukas-Batema/PeerBrain](https://github.com/Lukas-Batema/PeerBrain)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
