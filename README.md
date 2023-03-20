@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Lukas-Batema/PeerBrain/pull/1) in [Lukas-Batema/PeerBrain](https://github.com/Lukas-Batema/PeerBrain)
+1. 🗣 Commented on [#229](https://github.com/win11react/store/issues/229) in [win11react/store](https://github.com/win11react/store)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
