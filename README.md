@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/shandralor/PeerBrain/pull/20) in [shandralor/PeerBrain](https://github.com/shandralor/PeerBrain)
+1. 💪 Opened PR [#21](https://github.com/shandralor/PeerBrain/pull/21) in [shandralor/PeerBrain](https://github.com/shandralor/PeerBrain)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
