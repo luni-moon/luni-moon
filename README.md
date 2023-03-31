@@ -56,7 +56,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/fetchcord/fetchcord.github.io/pull/12) in [fetchcord/fetchcord.github.io](https://github.com/fetchcord/fetchcord.github.io)
+1. ❌ Closed PR [#10](https://github.com/shandralor/PeerBrain/pull/10) in [shandralor/PeerBrain](https://github.com/shandralor/PeerBrain)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
