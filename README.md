@@ -63,7 +63,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [LEGO Builder’s Journey Speedrun Attempt](https://www.youtube.com/watch?v=vzb5ahbg4QI)
 - [Attempting to Beat an RNG game I made That&#39;s Nearly Impossible to Beat...](https://www.youtube.com/watch?v=j2VBein63mE)
-- [Suddenly](https://www.youtube.com/watch?v=vsfUxVUG-W0)
-- [It’s Only the Beginning](https://www.youtube.com/watch?v=-xv6iAnZSPQ)
-- [Livin’ The Meaning Of Life](https://www.youtube.com/watch?v=TR2MYFMp3uY)
+- [More Peaceful Speedrunning...](https://www.youtube.com/watch?v=CeXMKXLDYWU)
+- [EVEN More Peaceful Speedrunning...](https://www.youtube.com/watch?v=SI54-cGyHOg)
+- [Peaceful Speedrunning 1.18.1 cause why not](https://www.youtube.com/watch?v=FNg7_AYcJGs)
 <!-- BLOG-POST-LIST:END -->
