@@ -8,8 +8,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukas-batema" alt="lukas-batema" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/batema_lukas" target="blank"><img src="https://img.shields.io/twitter/follow/batema_lukas?logo=twitter&style=for-the-badge" alt="batema_lukas" /></a> </p>
-
 - 🔭 I’m currently working on **[FetchCord](https://github.com/fetchcord/FetchCord)** and **[cubelang](javascript:void(0))**
 
 - 🧑‍🤝‍🧑 I’m looking to collaborate on **Open-Source Projects**
@@ -21,8 +19,6 @@
 - 📫 How to reach me [lukasbatema@mg.batemadevelopment.com](mailto:lukasbatema@mg.batemadevelopment.com)
 
 - ⚡ Fun fact **I have been cubing since 5th grade, and programming since 6th. I am now in 12th grade. Ask me anything in Discussions, for more info about ME!** 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/581871849256910848)](https://discord.com/users/581871849256910848)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
