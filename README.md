@@ -42,7 +42,7 @@
 <table>
   <tr>
     <td>
-      <img alt="Official Site" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&style=for-the-badge&url=https://batemadevelopment.com/" /><img alt="Latest Release" src="https://img.shields.io/github/v/release/Lukas-Batema/lukas-batema.github.io?style=for-the-badge&include_prereleases" /><img alt="Official Website" src="https://img.shields.io/github/repo-size/Lukas-Batema/BatemaDevelopment?style=for-the-badge" /><img alt="Discord" src="https://img.shields.io/badge/Discord-BatemaDevelopment%230119-blue?style=for-the-badge" />
+      <img alt="Official Site" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&style=for-the-badge&url=https://batemadevelopment.com/" /><img alt="Latest Release" src="https://img.shields.io/github/v/release/Lukas-Batema/lukas-batema.github.io?style=for-the-badge&include_prereleases" /><img alt="Official Website" src="https://img.shields.io/github/repo-size/Lukas-Batema/BatemaDevelopment?style=for-the-badge" />
     </td>
   </tr>
 </table>
