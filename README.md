@@ -52,7 +52,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/lukas-batema-student/portfolio/pull/1) in [lukas-batema-student/portfolio](https://github.com/lukas-batema-student/portfolio)
+1. 🗣 Commented on [#4805](https://github.com/tensorflow/datasets/issues/4805) in [tensorflow/datasets](https://github.com/tensorflow/datasets)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
