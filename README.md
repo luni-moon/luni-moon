@@ -52,7 +52,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4805](https://github.com/tensorflow/datasets/issues/4805) in [tensorflow/datasets](https://github.com/tensorflow/datasets)
+1. 🎉 Merged PR [#3](https://github.com/PeerBrain/server/pull/3) in [PeerBrain/server](https://github.com/PeerBrain/server)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
