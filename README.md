@@ -52,7 +52,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/PeerBrain/server/pull/3) in [PeerBrain/server](https://github.com/PeerBrain/server)
+1. 🎉 Merged PR [#1](https://github.com/Lukas-Batema/portfolio/pull/1) in [Lukas-Batema/portfolio](https://github.com/Lukas-Batema/portfolio)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
