@@ -34,11 +34,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/MelonicOverlord/beginner-python/issues/2) in [MelonicOverlord/beginner-python](https://github.com/MelonicOverlord/beginner-python)
-2. 💪 Opened PR [#5](https://github.com/TuringAI-Team/turing-ai-api/pull/5) in [TuringAI-Team/turing-ai-api](https://github.com/TuringAI-Team/turing-ai-api)
-3. 🎉 Merged PR [#2](https://github.com/BatemaDevelopment/.github/pull/2) in [BatemaDevelopment/.github](https://github.com/BatemaDevelopment/.github)
-4. 💪 Opened PR [#2](https://github.com/BatemaDevelopment/.github/pull/2) in [BatemaDevelopment/.github](https://github.com/BatemaDevelopment/.github)
-5. 🎉 Merged PR [#1](https://github.com/BatemaDevelopment/.github/pull/1) in [BatemaDevelopment/.github](https://github.com/BatemaDevelopment/.github)
+1. ❌ Closed PR [#2](https://github.com/nebulatgs/zeppelin-railway/pull/2) in [nebulatgs/zeppelin-railway](https://github.com/nebulatgs/zeppelin-railway)
+2. 🗣 Commented on [#2](https://github.com/MelonicOverlord/beginner-python/issues/2) in [MelonicOverlord/beginner-python](https://github.com/MelonicOverlord/beginner-python)
+3. 💪 Opened PR [#5](https://github.com/TuringAI-Team/turing-ai-api/pull/5) in [TuringAI-Team/turing-ai-api](https://github.com/TuringAI-Team/turing-ai-api)
+4. 🎉 Merged PR [#2](https://github.com/BatemaDevelopment/.github/pull/2) in [BatemaDevelopment/.github](https://github.com/BatemaDevelopment/.github)
+5. 💪 Opened PR [#2](https://github.com/BatemaDevelopment/.github/pull/2) in [BatemaDevelopment/.github](https://github.com/BatemaDevelopment/.github)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
