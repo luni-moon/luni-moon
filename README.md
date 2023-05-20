@@ -43,9 +43,9 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
+- [Geometry Dash Flailing](https://www.youtube.com/watch?v=qq4-Zu7gQxQ)
 - [DragonSword Survival](https://www.youtube.com/watch?v=abce0-DpjKo)
 - [Geometry Dash Flailing](https://www.youtube.com/watch?v=OXPvouGs-js)
 - [Geometry Dash Flailing](https://www.youtube.com/watch?v=ZWFZRZY0XQk)
 - [LEGO Builder’s Journey Speedrun Attempt](https://www.youtube.com/watch?v=vzb5ahbg4QI)
-- [Attempting to Beat an RNG game I made That&#39;s Nearly Impossible to Beat...](https://www.youtube.com/watch?v=j2VBein63mE)
 <!-- BLOG-POST-LIST:END -->
