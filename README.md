@@ -34,11 +34,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#53](https://github.com/BatemaDevelopment/batemadevelopment.com/pull/53) in [BatemaDevelopment/batemadevelopment.com](https://github.com/BatemaDevelopment/batemadevelopment.com)
-2. 🗣 Commented on [#386](https://github.com/blueedgetechno/win11React/issues/386#issuecomment-1586320392) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-3. 🗣 Commented on [#768](https://github.com/blueedgetechno/win11React/issues/768#issuecomment-1532959102) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-4. ❌ Closed PR [#2](https://github.com/nebulatgs/zeppelin-railway/pull/2) in [nebulatgs/zeppelin-railway](https://github.com/nebulatgs/zeppelin-railway)
-5. 🗣 Commented on [#2](https://github.com/MelonicOverlord/beginner-python/pull/2#issuecomment-1530033128) in [MelonicOverlord/beginner-python](https://github.com/MelonicOverlord/beginner-python)
+1. 🗣 Commented on [#6240](https://github.com/is-a-dev/register/pull/6240#issuecomment-1638071372) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ❌ Closed PR [#53](https://github.com/BatemaDevelopment/batemadevelopment.com/pull/53) in [BatemaDevelopment/batemadevelopment.com](https://github.com/BatemaDevelopment/batemadevelopment.com)
+3. 🗣 Commented on [#386](https://github.com/blueedgetechno/win11React/issues/386#issuecomment-1586320392) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+4. 🗣 Commented on [#768](https://github.com/blueedgetechno/win11React/issues/768#issuecomment-1532959102) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+5. ❌ Closed PR [#2](https://github.com/nebulatgs/zeppelin-railway/pull/2) in [nebulatgs/zeppelin-railway](https://github.com/nebulatgs/zeppelin-railway)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
