@@ -1,6 +1,6 @@
 <h1 align="center">Luni Batema</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lukas-batema&label=Profile%20views&color=0e75b6&style=flat" alt="lukas-batema" /> <a href="https://wakatime.com/@a5a7e9a1-f323-41da-a78c-cef00e6d45a5"><img src="https://wakatime.com/badge/user/a5a7e9a1-f323-41da-a78c-cef00e6d45a5.svg" alt="Total time coded since Jan 11 2022" /></a></p><p align="center"><img src="https://komarev.com/ghpvc/?username=Lukas-Batema&label=Profile%20views&color=0e75b6&style=flat" alt="BatemaDevelopment" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lukas-batema&label=Profile%20views&color=0e75b6&style=flat" alt="lukas-batema" /> <a href="https://wakatime.com/@a5a7e9a1-f323-41da-a78c-cef00e6d45a5"><img src="https://wakatime.com/badge/user/a5a7e9a1-f323-41da-a78c-cef00e6d45a5.svg" alt="Total time coded since Jan 11 2022" /></a></p><p align="center">
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukas-batema" alt="lukas-batema" /></a> </p>
 
