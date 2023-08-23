@@ -34,11 +34,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/Global-Chat-Bot/easter-eggs/issues/5) in [Global-Chat-Bot/easter-eggs](https://github.com/Global-Chat-Bot/easter-eggs)
-2. 🗣 Commented on [#6240](https://github.com/is-a-dev/register/pull/6240#issuecomment-1638071372) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. ❌ Closed PR [#53](https://github.com/BatemaDevelopment/batemadevelopment.com/pull/53) in [BatemaDevelopment/batemadevelopment.com](https://github.com/BatemaDevelopment/batemadevelopment.com)
-4. 🗣 Commented on [#386](https://github.com/blueedgetechno/win11React/issues/386#issuecomment-1586320392) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-5. 🗣 Commented on [#768](https://github.com/blueedgetechno/win11React/issues/768#issuecomment-1532959102) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+1. 🗣 Commented on [#551](https://github.com/code-golf/code-golf/issues/551#issuecomment-1688905607) in [code-golf/code-golf](https://github.com/code-golf/code-golf)
+2. ❗ Opened issue [#5](https://github.com/Global-Chat-Bot/easter-eggs/issues/5) in [Global-Chat-Bot/easter-eggs](https://github.com/Global-Chat-Bot/easter-eggs)
+3. 🗣 Commented on [#6240](https://github.com/is-a-dev/register/pull/6240#issuecomment-1638071372) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ❌ Closed PR [#53](https://github.com/BatemaDevelopment/batemadevelopment.com/pull/53) in [BatemaDevelopment/batemadevelopment.com](https://github.com/BatemaDevelopment/batemadevelopment.com)
+5. 🗣 Commented on [#386](https://github.com/blueedgetechno/win11React/issues/386#issuecomment-1586320392) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
