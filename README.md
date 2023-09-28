@@ -34,11 +34,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10](https://github.com/Global-Chat-Bot/easter-eggs/issues/10) in [Global-Chat-Bot/easter-eggs](https://github.com/Global-Chat-Bot/easter-eggs)
-2. 🗣 Commented on [#551](https://github.com/code-golf/code-golf/issues/551#issuecomment-1688905607) in [code-golf/code-golf](https://github.com/code-golf/code-golf)
-3. ❗ Opened issue [#5](https://github.com/Global-Chat-Bot/easter-eggs/issues/5) in [Global-Chat-Bot/easter-eggs](https://github.com/Global-Chat-Bot/easter-eggs)
-4. 🗣 Commented on [#6240](https://github.com/is-a-dev/register/pull/6240#issuecomment-1638071372) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🗣 Commented on [#386](https://github.com/blueedgetechno/win11React/issues/386#issuecomment-1586320392) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+1. ❗ Opened issue [#32](https://github.com/RuiNtD/SVRichPresence/issues/32) in [RuiNtD/SVRichPresence](https://github.com/RuiNtD/SVRichPresence)
+2. ❗ Opened issue [#10](https://github.com/Global-Chat-Bot/easter-eggs/issues/10) in [Global-Chat-Bot/easter-eggs](https://github.com/Global-Chat-Bot/easter-eggs)
+3. 🗣 Commented on [#551](https://github.com/code-golf/code-golf/issues/551#issuecomment-1688905607) in [code-golf/code-golf](https://github.com/code-golf/code-golf)
+4. ❗ Opened issue [#5](https://github.com/Global-Chat-Bot/easter-eggs/issues/5) in [Global-Chat-Bot/easter-eggs](https://github.com/Global-Chat-Bot/easter-eggs)
+5. 🗣 Commented on [#6240](https://github.com/is-a-dev/register/pull/6240#issuecomment-1638071372) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
