@@ -34,11 +34,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/davehornik/sd-discord-rich_presence/issues/14#issuecomment-1783731350) in [davehornik/sd-discord-rich_presence](https://github.com/davehornik/sd-discord-rich_presence)
-2. 🗣 Commented on [#14](https://github.com/davehornik/sd-discord-rich_presence/issues/14#issuecomment-1783731117) in [davehornik/sd-discord-rich_presence](https://github.com/davehornik/sd-discord-rich_presence)
-3. 🗣 Commented on [#868](https://github.com/thebaselab/codeapp/issues/868#issuecomment-1739712799) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
-4. ❗ Opened issue [#32](https://github.com/RuiNtD/SVRichPresence/issues/32) in [RuiNtD/SVRichPresence](https://github.com/RuiNtD/SVRichPresence)
-5. ❗ Opened issue [#10](https://github.com/Global-Chat-Bot/easter-eggs/issues/10) in [Global-Chat-Bot/easter-eggs](https://github.com/Global-Chat-Bot/easter-eggs)
+1. 🗣 Commented on [#80](https://github.com/fossephate/JoyCon-Driver/issues/80#issuecomment-1787973638) in [fossephate/JoyCon-Driver](https://github.com/fossephate/JoyCon-Driver)
+2. 🗣 Commented on [#14](https://github.com/davehornik/sd-discord-rich_presence/issues/14#issuecomment-1783731350) in [davehornik/sd-discord-rich_presence](https://github.com/davehornik/sd-discord-rich_presence)
+3. 🗣 Commented on [#14](https://github.com/davehornik/sd-discord-rich_presence/issues/14#issuecomment-1783731117) in [davehornik/sd-discord-rich_presence](https://github.com/davehornik/sd-discord-rich_presence)
+4. 🗣 Commented on [#868](https://github.com/thebaselab/codeapp/issues/868#issuecomment-1739712799) in [thebaselab/codeapp](https://github.com/thebaselab/codeapp)
+5. ❗ Opened issue [#32](https://github.com/RuiNtD/SVRichPresence/issues/32) in [RuiNtD/SVRichPresence](https://github.com/RuiNtD/SVRichPresence)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
