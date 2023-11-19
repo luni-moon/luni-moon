@@ -34,11 +34,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/anon34342122/nhsm/issues/3#issuecomment-1813743877) in [anon34342122/nhsm](https://github.com/anon34342122/nhsm)
-2. 🔒 Closed issue [#792](https://github.com/blueedgetechno/win11React/issues/792) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-3. 🗣 Commented on [#792](https://github.com/blueedgetechno/win11React/issues/792#issuecomment-1797849077) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-4. 🗣 Commented on [#80](https://github.com/fossephate/JoyCon-Driver/issues/80#issuecomment-1787973638) in [fossephate/JoyCon-Driver](https://github.com/fossephate/JoyCon-Driver)
-5. 🗣 Commented on [#14](https://github.com/davehornik/sd-discord-rich_presence/issues/14#issuecomment-1783731350) in [davehornik/sd-discord-rich_presence](https://github.com/davehornik/sd-discord-rich_presence)
+1. ❗ Opened issue [#9](https://github.com/KittyPBoxx/GBAXG/issues/9) in [KittyPBoxx/GBAXG](https://github.com/KittyPBoxx/GBAXG)
+2. 🗣 Commented on [#3](https://github.com/anon34342122/nhsm/issues/3#issuecomment-1813743877) in [anon34342122/nhsm](https://github.com/anon34342122/nhsm)
+3. 🔒 Closed issue [#792](https://github.com/blueedgetechno/win11React/issues/792) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+4. 🗣 Commented on [#792](https://github.com/blueedgetechno/win11React/issues/792#issuecomment-1797849077) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+5. 🗣 Commented on [#80](https://github.com/fossephate/JoyCon-Driver/issues/80#issuecomment-1787973638) in [fossephate/JoyCon-Driver](https://github.com/fossephate/JoyCon-Driver)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
