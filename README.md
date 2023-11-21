@@ -34,11 +34,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/KittyPBoxx/GBAXG/issues/9#issuecomment-1819915678) in [KittyPBoxx/GBAXG](https://github.com/KittyPBoxx/GBAXG)
-2. 🗣 Commented on [#9](https://github.com/KittyPBoxx/GBAXG/issues/9#issuecomment-1817964140) in [KittyPBoxx/GBAXG](https://github.com/KittyPBoxx/GBAXG)
-3. ❗ Opened issue [#9](https://github.com/KittyPBoxx/GBAXG/issues/9) in [KittyPBoxx/GBAXG](https://github.com/KittyPBoxx/GBAXG)
-4. 🗣 Commented on [#3](https://github.com/anon34342122/nhsm/issues/3#issuecomment-1813743877) in [anon34342122/nhsm](https://github.com/anon34342122/nhsm)
-5. 🔒 Closed issue [#792](https://github.com/blueedgetechno/win11React/issues/792) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+1. 🗣 Commented on [#9](https://github.com/KittyPBoxx/GBAXG/issues/9#issuecomment-1820011572) in [KittyPBoxx/GBAXG](https://github.com/KittyPBoxx/GBAXG)
+2. 🗣 Commented on [#9](https://github.com/KittyPBoxx/GBAXG/issues/9#issuecomment-1819915678) in [KittyPBoxx/GBAXG](https://github.com/KittyPBoxx/GBAXG)
+3. 🗣 Commented on [#9](https://github.com/KittyPBoxx/GBAXG/issues/9#issuecomment-1817964140) in [KittyPBoxx/GBAXG](https://github.com/KittyPBoxx/GBAXG)
+4. ❗ Opened issue [#9](https://github.com/KittyPBoxx/GBAXG/issues/9) in [KittyPBoxx/GBAXG](https://github.com/KittyPBoxx/GBAXG)
+5. 🗣 Commented on [#3](https://github.com/anon34342122/nhsm/issues/3#issuecomment-1813743877) in [anon34342122/nhsm](https://github.com/anon34342122/nhsm)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
