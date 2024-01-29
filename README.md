@@ -43,9 +43,9 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
-- [Suddenly](https://www.youtube.com/watch?v=vsfUxVUG-W0)
-- [It’s Only the Beginning](https://www.youtube.com/watch?v=-xv6iAnZSPQ)
-- [Livin’ The Meaning Of Life](https://www.youtube.com/watch?v=TR2MYFMp3uY)
-- [Fear No Man](https://www.youtube.com/watch?v=H69QYCkpf8k)
-- [Interlude](https://www.youtube.com/watch?v=B8yxvb0bozU)
+- [Pokemon Shining Pearl](https://www.youtube.com/watch?v=ETyGjJSzWL4)
+- [Pokemon Shining Pearl](https://www.youtube.com/watch?v=KUM7yWZnFgM)
+- [Maple Tree Way MK8 Decent Run 200cc](https://www.youtube.com/watch?v=ywZROM5s5hM)
+- [Maple Tree Way MK8 Clean Run 150cc](https://www.youtube.com/watch?v=18MSeE7L01k)
+- [Rickrolling @toycat Mid-Stream &lpar;while he talks to a Bedrock Mojang Developer&rpar; with Superchats!](https://www.youtube.com/watch?v=sQFWzoVfvaA)
 <!-- BLOG-POST-LIST:END -->
