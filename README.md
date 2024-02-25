@@ -43,9 +43,9 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
-- [Pokemon X Speedrun Attempts](https://www.youtube.com/watch?v=RPwDpjKuWj4)
-- [Pokemon X Speedrun](https://www.youtube.com/watch?v=vxPf7sT0Sgs)
 - [Pokemon X Speedrun](https://www.youtube.com/watch?v=vMHpShIFNXM)
 - [Pokemon X Speedrun](https://www.youtube.com/watch?v=VQ1M1O8Jnfo)
 - [Pokemon X Speedrun](https://www.youtube.com/watch?v=nmM7Fny7pww)
+- [Pokemon X Speedrun](https://www.youtube.com/watch?v=8u43CLV5UZU)
+- [Pokemon X Speedrun Attempts](https://www.youtube.com/watch?v=RPwDpjKuWj4)
 <!-- BLOG-POST-LIST:END -->
