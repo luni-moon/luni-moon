@@ -43,9 +43,9 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
-- [Pokemon X Speedrun](https://www.youtube.com/watch?v=eJJ0IKXTC_g)
-- [Pokemon Shining Pearl](https://www.youtube.com/watch?v=N7WQdjSsj1s)
-- [Pokemon Shining Pearl](https://www.youtube.com/watch?v=ETyGjJSzWL4)
-- [Pokemon Shining Pearl](https://www.youtube.com/watch?v=KUM7yWZnFgM)
-- [Maple Tree Way MK8 Decent Run 200cc](https://www.youtube.com/watch?v=ywZROM5s5hM)
+- [Pokemon X Speedrun](https://www.youtube.com/watch?v=vxPf7sT0Sgs)
+- [Pokemon X Speedrun](https://www.youtube.com/watch?v=vMHpShIFNXM)
+- [Pokemon X Speedrun](https://www.youtube.com/watch?v=VQ1M1O8Jnfo)
+- [Pokemon X Speedrun](https://www.youtube.com/watch?v=nmM7Fny7pww)
+- [Pokemon X Speedrun](https://www.youtube.com/watch?v=8u43CLV5UZU)
 <!-- BLOG-POST-LIST:END -->
