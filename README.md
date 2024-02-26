@@ -34,11 +34,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#168](https://github.com/PWhiddy/PokemonRedExperiments/issues/168#issuecomment-1963085084) in [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments)
-2. ❗ Opened issue [#168](https://github.com/PWhiddy/PokemonRedExperiments/issues/168) in [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments)
-3. 🗣 Commented on [#127](https://github.com/MCMi460/NSO-RPC/issues/127#issuecomment-1962724279) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
-4. 🗣 Commented on [#127](https://github.com/MCMi460/NSO-RPC/issues/127#issuecomment-1962723265) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
-5. 🗣 Commented on [#127](https://github.com/MCMi460/NSO-RPC/issues/127#issuecomment-1962696270) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
+1. 🗣 Commented on [#127](https://github.com/MCMi460/NSO-RPC/issues/127#issuecomment-1964715674) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
+2. 🗣 Commented on [#168](https://github.com/PWhiddy/PokemonRedExperiments/issues/168#issuecomment-1963085084) in [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments)
+3. ❗ Opened issue [#168](https://github.com/PWhiddy/PokemonRedExperiments/issues/168) in [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments)
+4. 🗣 Commented on [#127](https://github.com/MCMi460/NSO-RPC/issues/127#issuecomment-1962724279) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
+5. 🗣 Commented on [#127](https://github.com/MCMi460/NSO-RPC/issues/127#issuecomment-1962723265) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
