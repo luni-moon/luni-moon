@@ -34,11 +34,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#296](https://github.com/hainguyents13/mechvibes/issues/296#issuecomment-1968850199) in [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes)
-2. ❗ Opened issue [#296](https://github.com/hainguyents13/mechvibes/issues/296) in [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes)
-3. 🗣 Commented on [#127](https://github.com/MCMi460/NSO-RPC/issues/127#issuecomment-1964715674) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
-4. 🗣 Commented on [#168](https://github.com/PWhiddy/PokemonRedExperiments/issues/168#issuecomment-1963085084) in [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments)
-5. ❗ Opened issue [#168](https://github.com/PWhiddy/PokemonRedExperiments/issues/168) in [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments)
+1. 🗣 Commented on [#1](https://github.com/guilsa/A-Simple-Note-Taking-Web-App/pull/1#issuecomment-1975890171) in [guilsa/A-Simple-Note-Taking-Web-App](https://github.com/guilsa/A-Simple-Note-Taking-Web-App)
+2. 🗣 Commented on [#296](https://github.com/hainguyents13/mechvibes/issues/296#issuecomment-1968850199) in [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes)
+3. ❗ Opened issue [#296](https://github.com/hainguyents13/mechvibes/issues/296) in [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes)
+4. 🗣 Commented on [#127](https://github.com/MCMi460/NSO-RPC/issues/127#issuecomment-1964715674) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
+5. 🗣 Commented on [#168](https://github.com/PWhiddy/PokemonRedExperiments/issues/168#issuecomment-1963085084) in [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
