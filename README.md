@@ -43,9 +43,9 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
-- [Pokemon X Casual Completions](https://www.youtube.com/watch?v=hOGdB1jOh-4)
 - [Pokemon X Casual Completions](https://www.youtube.com/watch?v=XU4elxlcJCo)
 - [Pokemon X Speedrun Attempts](https://www.youtube.com/watch?v=iy9sAWDVqgE)
 - [Pokemon X Speedrun Attempts](https://www.youtube.com/watch?v=RPwDpjKuWj4)
 - [Pokemon X Speedrun](https://www.youtube.com/watch?v=eJJ0IKXTC_g)
+- [Pokemon Shining Pearl](https://www.youtube.com/watch?v=N7WQdjSsj1s)
 <!-- BLOG-POST-LIST:END -->
