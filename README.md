@@ -43,9 +43,9 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
+- [Karting With a Friend!](https://www.youtube.com/watch?v=m52qywAw21M)
 - [Animal Crossing: New Horizons - New Capture Card!](https://www.youtube.com/watch?v=9ydbRCSIUFM)
 - [Pokemon Magikarp ROM Hack - Red](https://www.youtube.com/watch?v=lA7M8oYdzMM)
 - [Pokemon X Casual Completions](https://www.youtube.com/watch?v=036KTLMJ9c4)
 - [Pokemon X Casual Completions](https://www.youtube.com/watch?v=XU4elxlcJCo)
-- [Pokemon X Speedrun Attempts](https://www.youtube.com/watch?v=iy9sAWDVqgE)
 <!-- BLOG-POST-LIST:END -->
