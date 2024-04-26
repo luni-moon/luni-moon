@@ -34,11 +34,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135](https://github.com/MCMi460/NSO-RPC/issues/135#issuecomment-2078551652) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
-2. 🗣 Commented on [#135](https://github.com/MCMi460/NSO-RPC/issues/135#issuecomment-2078251359) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
-3. 🗣 Commented on [#135](https://github.com/MCMi460/NSO-RPC/issues/135#issuecomment-2076191078) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
-4. 💪 Opened PR [#13](https://github.com/PretendoNetwork/chubby/pull/13) in [PretendoNetwork/chubby](https://github.com/PretendoNetwork/chubby)
-5. 🗣 Commented on [#28](https://github.com/PretendoNetwork/account/issues/28#issuecomment-2041611765) in [PretendoNetwork/account](https://github.com/PretendoNetwork/account)
+1. 🗣 Commented on [#135](https://github.com/MCMi460/NSO-RPC/issues/135#issuecomment-2079948452) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
+2. 🗣 Commented on [#135](https://github.com/MCMi460/NSO-RPC/issues/135#issuecomment-2078551652) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
+3. 🗣 Commented on [#135](https://github.com/MCMi460/NSO-RPC/issues/135#issuecomment-2078251359) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
+4. 🗣 Commented on [#135](https://github.com/MCMi460/NSO-RPC/issues/135#issuecomment-2076191078) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
+5. 💪 Opened PR [#13](https://github.com/PretendoNetwork/chubby/pull/13) in [PretendoNetwork/chubby](https://github.com/PretendoNetwork/chubby)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
