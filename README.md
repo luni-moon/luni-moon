@@ -43,9 +43,9 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
+- [Luni V.S. Wallace - Emerald Champion Battle](https://www.youtube.com/watch?v=jRQQaTluYOQ)
 - [VOD: Pokemon Legend revisits Arceus to avenge Giritina &lpar;Part I&rpar;](https://www.youtube.com/watch?v=9D5SySDIg5E)
 - [VOD: Pokken Tournament Shenanigans &lpar;Part I&rpar;](https://www.youtube.com/watch?v=xnX4nRZeQkE)
 - [Splatoon 3 Online Match](https://www.youtube.com/watch?v=LQwUUsgiB-w)
 - [Karting With a Friend!](https://www.youtube.com/watch?v=m52qywAw21M)
-- [Animal Crossing: New Horizons - New Capture Card!](https://www.youtube.com/watch?v=9ydbRCSIUFM)
 <!-- BLOG-POST-LIST:END -->
