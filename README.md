@@ -43,9 +43,9 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
+- [Cascarrafa Fountain Planter Glitch Without Using Riding Box Legendary](https://www.youtube.com/watch?v=AA5CEqKoTqs)
 - [Failed Pokemon Emerald Speedrun - Any% Glitchless, Emulator](https://www.youtube.com/watch?v=45tg3XXvEiE)
 - [Mario Kart for Fun](https://www.youtube.com/watch?v=ozW7L86D54E)
 - [VOD: Pokken Tournament Shenanigans &lpar;Part 2; Finale&rpar;](https://www.youtube.com/watch?v=qXDN_NNSKFM)
 - [Luni V.S. Wallace - Emerald Champion Battle](https://www.youtube.com/watch?v=jRQQaTluYOQ)
-- [VOD: Pokemon Legend revisits Arceus to avenge Giritina &lpar;Part I&rpar;](https://www.youtube.com/watch?v=9D5SySDIg5E)
 <!-- BLOG-POST-LIST:END -->
