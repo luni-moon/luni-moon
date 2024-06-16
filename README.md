@@ -4,17 +4,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukas-batema" alt="lukas-batema" /></a> </p>
 
-- 🔭 I’m currently working on **[PeerBrain](https://github.com/PeerBrain)**, **[TuringAI](https://github.com/TuringAI-Team)**, and **Cube Empire: *The Escape (Volume I)***
+- 🔭 I’m currently working on ** **Cube Empire: *The Escape (Volume I)***
 
 - 🧑‍🤝‍🧑 I’m looking to collaborate on **Open-Source Projects**
 
-- 👨‍💻 All of my projects are available at [www.batemadevelopment.com](https://www.batemadevelopment.com/)
-
 - 💬 Ask me about **HTML5, JS, CSS3, C#, ML, and Python**
 
-- 📫 How to reach me [admin@batemadevelopment.com](mailto:admin@batemadevelopment.com)
-
-- ⚡ Fun fact **I have been cubing since 5th grade, and programming since 6th. I am now in 12th grade. Ask me anything in Discussions, for more info about ME!** 
+- ⚡ Fun fact **I have been cubing since 5th grade, and programming since 6th. I am now graduated, since May of 2023. Ask me anything in Discussions, for more info about ME!** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
