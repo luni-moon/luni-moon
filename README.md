@@ -39,9 +39,9 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
+- [Mario Kart Wii - Ramp Blue Shell Dodge](https://www.youtube.com/watch?v=kWTrvdVk7OU)
 - [Articuno Stall Catch Premier Ball Full Health Eepy](https://www.youtube.com/watch?v=098PvJgVPsA)
 - [Cascarrafa Fountain Planter Glitch Without Using Riding Box Legendary](https://www.youtube.com/watch?v=AA5CEqKoTqs)
 - [Failed Pokemon Emerald Speedrun - Any% Glitchless, Emulator](https://www.youtube.com/watch?v=45tg3XXvEiE)
 - [Mario Kart for Fun](https://www.youtube.com/watch?v=ozW7L86D54E)
-- [VOD: Pokken Tournament Shenanigans &lpar;Part 2; Finale&rpar;](https://www.youtube.com/watch?v=qXDN_NNSKFM)
 <!-- BLOG-POST-LIST:END -->
