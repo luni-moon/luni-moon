@@ -39,9 +39,9 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
+- [VRChat Wii Rainbow Road &lpar;Tour Remix&rpar; Lap With Broken Cut](https://www.youtube.com/watch?v=xw2s1I6DKPM)
 - [10.21.2024 Stream VOD](https://www.youtube.com/watch?v=uPdn1wzQHKk)
 - [GSI% - ToTK &lpar;01h 01m 13.79s&rpar;](https://www.youtube.com/watch?v=Gi-BprcaIoY)
 - [Alolan Ninetail Team Carry - Pokemon UNITE](https://www.youtube.com/watch?v=YOhkyu2OI94)
 - [pet% &lpar;unofficial - ToTK&rpar; - 1h 39m 49.05s](https://www.youtube.com/watch?v=fSU5hPr6myc)
-- [Mario Kart Wii - Ramp Blue Shell Dodge](https://www.youtube.com/watch?v=kWTrvdVk7OU)
 <!-- BLOG-POST-LIST:END -->
