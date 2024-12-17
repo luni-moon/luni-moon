@@ -30,8 +30,8 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#13](https://github.com/PretendoNetwork/chubby/pull/13) in [PretendoNetwork/chubby](https://github.com/PretendoNetwork/chubby)
-2. 🔒 Closed issue [#148](https://github.com/MCMi460/NSO-RPC/issues/148) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
+1. 🗣 Commented on [#165](https://github.com/MCMi460/NSO-RPC/issues/165#issuecomment-2546464442) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
+2. ❌ Closed PR [#13](https://github.com/PretendoNetwork/chubby/pull/13) in [PretendoNetwork/chubby](https://github.com/PretendoNetwork/chubby)
 3. 🗣 Commented on [#148](https://github.com/MCMi460/NSO-RPC/issues/148#issuecomment-2111482983) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
 4. ❗ Opened issue [#148](https://github.com/MCMi460/NSO-RPC/issues/148) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
 5. 🗣 Commented on [#135](https://github.com/MCMi460/NSO-RPC/issues/135#issuecomment-2079948452) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
