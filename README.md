@@ -39,9 +39,9 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;1h12m&rpar; Swordplay Pro Status Run - Wii Sports Resort](https://www.youtube.com/watch?v=fWw8gSyendY)
 - [STAR WARS Jedi  Fallen Order™ Dathomir  Ruin Fall Through Glitch](https://www.youtube.com/watch?v=bdL_-uoF7ak)
 - [VRChat Wii Rainbow Road &lpar;Tour Remix&rpar; Lap With Broken Cut](https://www.youtube.com/watch?v=xw2s1I6DKPM)
 - [10.21.2024 Stream VOD](https://www.youtube.com/watch?v=uPdn1wzQHKk)
 - [GSI% - ToTK &lpar;01h 01m 13.79s&rpar;](https://www.youtube.com/watch?v=Gi-BprcaIoY)
+- [Alolan Ninetail Team Carry - Pokemon UNITE](https://www.youtube.com/watch?v=YOhkyu2OI94)
 <!-- BLOG-POST-LIST:END -->
