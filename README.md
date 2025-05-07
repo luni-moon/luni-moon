@@ -30,8 +30,8 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#210](https://github.com/PokemonAutomation/ComputerControl/issues/210) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
-2. ❌ Closed PR [#13](https://github.com/PretendoNetwork/chubby/pull/13) in [PretendoNetwork/chubby](https://github.com/PretendoNetwork/chubby)
+1. ❗ Opened issue [#211](https://github.com/PokemonAutomation/ComputerControl/issues/211) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
+2. ❗ Opened issue [#210](https://github.com/PokemonAutomation/ComputerControl/issues/210) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
 3. 🗣 Commented on [#148](https://github.com/MCMi460/NSO-RPC/issues/148#issuecomment-2111482983) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
 4. ❗ Opened issue [#148](https://github.com/MCMi460/NSO-RPC/issues/148) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
 5. 🗣 Commented on [#135](https://github.com/MCMi460/NSO-RPC/issues/135#issuecomment-2079948452) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
