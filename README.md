@@ -30,11 +30,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#211](https://github.com/PokemonAutomation/ComputerControl/issues/211) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
-2. ❗ Opened issue [#210](https://github.com/PokemonAutomation/ComputerControl/issues/210) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
-3. 🗣 Commented on [#148](https://github.com/MCMi460/NSO-RPC/issues/148#issuecomment-2111482983) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
-4. ❗ Opened issue [#148](https://github.com/MCMi460/NSO-RPC/issues/148) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
-5. 🗣 Commented on [#135](https://github.com/MCMi460/NSO-RPC/issues/135#issuecomment-2079948452) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
+1. 🗣 Commented on [#211](https://github.com/PokemonAutomation/ComputerControl/issues/211#issuecomment-2856893191) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
+2. 🔒 Closed issue [#211](https://github.com/PokemonAutomation/ComputerControl/issues/211) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
+3. 🗣 Commented on [#211](https://github.com/PokemonAutomation/ComputerControl/issues/211#issuecomment-2856892799) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
+4. ❗ Opened issue [#211](https://github.com/PokemonAutomation/ComputerControl/issues/211) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
+5. ❗ Opened issue [#210](https://github.com/PokemonAutomation/ComputerControl/issues/210) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
