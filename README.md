@@ -39,9 +39,9 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
+- [Red Shell Wall Dodge on BC3](https://www.youtube.com/shorts/73bUPLXAcWw)
 - [MKWii Grumble Volcano Fail](https://www.youtube.com/shorts/YSQjZa0LUfU)
 - [Bullet Bill Tech in Mario Kart 8 Deluxe Hyrule Circuit](https://www.youtube.com/shorts/0yUtsu-sg7E)
 - [MKWii Grumble Volcano Glitch Run &lpar;50.001 In Game Timer&rpar;](https://www.youtube.com/shorts/l1TnZAO45x8)
 - [PIKACHU UNITE BUT ALOLAN UWU](https://www.youtube.com/watch?v=69vD2D7eT58)
-- [Front Running a Bagging Track with Isabelle &lpar;8DX&rpar;](https://www.youtube.com/watch?v=mImHPrPgLTU)
 <!-- BLOG-POST-LIST:END -->
