@@ -30,11 +30,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#18](https://github.com/Omega-dev0/Music-On-OBS/issues/18) in [Omega-dev0/Music-On-OBS](https://github.com/Omega-dev0/Music-On-OBS)
-2. 🔒 Closed issue [#211](https://github.com/PokemonAutomation/ComputerControl/issues/211) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
-3. 🗣 Commented on [#211](https://github.com/PokemonAutomation/ComputerControl/issues/211#issuecomment-2856892799) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
-4. ❗ Opened issue [#211](https://github.com/PokemonAutomation/ComputerControl/issues/211) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
-5. ❗ Opened issue [#210](https://github.com/PokemonAutomation/ComputerControl/issues/210) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
+1. 🔓 Reopened issue [#18](https://github.com/Omega-dev0/Music-On-OBS/issues/18) in [Omega-dev0/Music-On-OBS](https://github.com/Omega-dev0/Music-On-OBS)
+2. 🗣 Commented on [#18](https://github.com/Omega-dev0/Music-On-OBS/issues/18#issuecomment-3222009524) in [Omega-dev0/Music-On-OBS](https://github.com/Omega-dev0/Music-On-OBS)
+3. 🗣 Commented on [#18](https://github.com/Omega-dev0/Music-On-OBS/issues/18#issuecomment-3222008938) in [Omega-dev0/Music-On-OBS](https://github.com/Omega-dev0/Music-On-OBS)
+4. 🔒 Closed issue [#18](https://github.com/Omega-dev0/Music-On-OBS/issues/18) in [Omega-dev0/Music-On-OBS](https://github.com/Omega-dev0/Music-On-OBS)
+5. ❗ Opened issue [#18](https://github.com/Omega-dev0/Music-On-OBS/issues/18) in [Omega-dev0/Music-On-OBS](https://github.com/Omega-dev0/Music-On-OBS)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
