@@ -30,7 +30,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#211](https://github.com/PokemonAutomation/ComputerControl/issues/211#issuecomment-2856893191) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
+1. ❗ Opened issue [#18](https://github.com/Omega-dev0/Music-On-OBS/issues/18) in [Omega-dev0/Music-On-OBS](https://github.com/Omega-dev0/Music-On-OBS)
 2. 🔒 Closed issue [#211](https://github.com/PokemonAutomation/ComputerControl/issues/211) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
 3. 🗣 Commented on [#211](https://github.com/PokemonAutomation/ComputerControl/issues/211#issuecomment-2856892799) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
 4. ❗ Opened issue [#211](https://github.com/PokemonAutomation/ComputerControl/issues/211) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
