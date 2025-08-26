@@ -30,11 +30,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#18](https://github.com/Omega-dev0/Music-On-OBS/issues/18) in [Omega-dev0/Music-On-OBS](https://github.com/Omega-dev0/Music-On-OBS)
-2. 🗣 Commented on [#18](https://github.com/Omega-dev0/Music-On-OBS/issues/18#issuecomment-3222009524) in [Omega-dev0/Music-On-OBS](https://github.com/Omega-dev0/Music-On-OBS)
-3. 🗣 Commented on [#18](https://github.com/Omega-dev0/Music-On-OBS/issues/18#issuecomment-3222008938) in [Omega-dev0/Music-On-OBS](https://github.com/Omega-dev0/Music-On-OBS)
-4. 🔒 Closed issue [#18](https://github.com/Omega-dev0/Music-On-OBS/issues/18) in [Omega-dev0/Music-On-OBS](https://github.com/Omega-dev0/Music-On-OBS)
-5. ❗ Opened issue [#18](https://github.com/Omega-dev0/Music-On-OBS/issues/18) in [Omega-dev0/Music-On-OBS](https://github.com/Omega-dev0/Music-On-OBS)
+1. 🗣 Commented on [#18](https://github.com/Omega-dev0/Music-On-OBS/issues/18#issuecomment-3222098341) in [Omega-dev0/Music-On-OBS](https://github.com/Omega-dev0/Music-On-OBS)
+2. 🔓 Reopened issue [#18](https://github.com/Omega-dev0/Music-On-OBS/issues/18) in [Omega-dev0/Music-On-OBS](https://github.com/Omega-dev0/Music-On-OBS)
+3. 🗣 Commented on [#18](https://github.com/Omega-dev0/Music-On-OBS/issues/18#issuecomment-3222009524) in [Omega-dev0/Music-On-OBS](https://github.com/Omega-dev0/Music-On-OBS)
+4. 🗣 Commented on [#18](https://github.com/Omega-dev0/Music-On-OBS/issues/18#issuecomment-3222008938) in [Omega-dev0/Music-On-OBS](https://github.com/Omega-dev0/Music-On-OBS)
+5. 🔒 Closed issue [#18](https://github.com/Omega-dev0/Music-On-OBS/issues/18) in [Omega-dev0/Music-On-OBS](https://github.com/Omega-dev0/Music-On-OBS)
 <!--END_SECTION:activity-->
 
 ### My Recent YouTube Videos (All of my Channels)
