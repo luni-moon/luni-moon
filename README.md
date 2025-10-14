@@ -30,8 +30,8 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#194](https://github.com/LidoFi-Staking/Lido-Staking/issues/194#issuecomment-3315404435) in [LidoFi-Staking/Lido-Staking](https://github.com/LidoFi-Staking/Lido-Staking)
-2. 🗣 Commented on [#18](https://github.com/Omega-dev0/Music-On-OBS/issues/18#issuecomment-3293930981) in [Omega-dev0/Music-On-OBS](https://github.com/Omega-dev0/Music-On-OBS)
+1. 🗣 Commented on [#210](https://github.com/PokemonAutomation/ComputerControl/issues/210#issuecomment-3350113618) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
+2. 🗣 Commented on [#210](https://github.com/PokemonAutomation/ComputerControl/issues/210#issuecomment-3350028906) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
 3. 🔒 Closed issue [#210](https://github.com/PokemonAutomation/ComputerControl/issues/210) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
 4. ❗ Opened issue [#72](https://github.com/3DS-RPC/3DS-RPC/issues/72) in [3DS-RPC/3DS-RPC](https://github.com/3DS-RPC/3DS-RPC)
 5. ❗ Opened issue [#2](https://github.com/RainingChain/pokemoncompletion/issues/2) in [RainingChain/pokemoncompletion](https://github.com/RainingChain/pokemoncompletion)
