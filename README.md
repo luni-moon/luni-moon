@@ -39,9 +39,9 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
+- [Finally reaching Master&#39;s](https://www.youtube.com/watch?v=oy3FO27YKvU)
 - [Roar of Time did you no good | #luniveon on #Twitch](https://www.youtube.com/shorts/n93TFiaCWHU)
 - [It doesn&#39;t affect a flying type, you doofus. | #luniveon on #Twitch](https://www.youtube.com/shorts/J0Y8HzkmP34)
 - [That works... | #luniveon on #Twitch](https://www.youtube.com/shorts/T12XwrEdQbE)
 - [Peak | #luniveon on #Twitch](https://www.youtube.com/shorts/HJy98Rt1gUE)
-- [Korrina Stands on my Head - Mega Evolution DLC](https://www.youtube.com/shorts/k0l4Idyuq44)
 <!-- BLOG-POST-LIST:END -->
