@@ -39,9 +39,9 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
+- [Lore Keeper Zinnia Theme, Played on Beat Saber](https://www.youtube.com/watch?v=VgQ7klq3dvg)
 - [If you are gonna do this, get off the game and back to kindergarden.](https://www.youtube.com/watch?v=EcqaD3rbBjI)
 - [Finally reaching Master&#39;s](https://www.youtube.com/watch?v=oy3FO27YKvU)
 - [Roar of Time did you no good | #luniveon on #Twitch](https://www.youtube.com/shorts/n93TFiaCWHU)
 - [It doesn&#39;t affect a flying type, you doofus. | #luniveon on #Twitch](https://www.youtube.com/shorts/J0Y8HzkmP34)
-- [That works... | #luniveon on #Twitch](https://www.youtube.com/shorts/T12XwrEdQbE)
 <!-- BLOG-POST-LIST:END -->
