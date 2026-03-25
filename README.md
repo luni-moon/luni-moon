@@ -30,8 +30,8 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#210](https://github.com/PokemonAutomation/ComputerControl/issues/210#issuecomment-3350113618) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
-2. 🗣 Commented on [#210](https://github.com/PokemonAutomation/ComputerControl/issues/210#issuecomment-3350028906) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
+1. 🔓 Reopened issue [#210](https://github.com/PokemonAutomation/ComputerControl/issues/210) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
+2. 🗣 Commented on [#210](https://github.com/PokemonAutomation/ComputerControl/issues/210#issuecomment-4128842405) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
 3. 🔒 Closed issue [#210](https://github.com/PokemonAutomation/ComputerControl/issues/210) in [PokemonAutomation/ComputerControl](https://github.com/PokemonAutomation/ComputerControl)
 4. ❗ Opened issue [#72](https://github.com/3DS-RPC/3DS-RPC/issues/72) in [3DS-RPC/3DS-RPC](https://github.com/3DS-RPC/3DS-RPC)
 5. ❗ Opened issue [#2](https://github.com/RainingChain/pokemoncompletion/issues/2) in [RainingChain/pokemoncompletion](https://github.com/RainingChain/pokemoncompletion)
