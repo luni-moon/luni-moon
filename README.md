@@ -39,9 +39,9 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
+- [W game nya~](https://www.youtube.com/watch?v=lzaw3fNq7-A)
 - [Alolan Raichu :3](https://www.youtube.com/watch?v=eFYrjfU-gX0)
 - [Victreebell Clutch Nya~!](https://www.youtube.com/watch?v=xmDWzUboZww)
 - [Wii Sports Resort Video Tutorial](https://www.youtube.com/watch?v=Z5PdT09qJNA)
 - [Long Champions Match :3](https://www.youtube.com/watch?v=Jq_nzCYj9pM)
-- [First Ranked Champions Battle](https://www.youtube.com/watch?v=z8MinqwoaUg)
 <!-- BLOG-POST-LIST:END -->
