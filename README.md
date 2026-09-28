@@ -39,9 +39,9 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
+- [Legendary Copypasta Gameplay](https://www.youtube.com/watch?v=69jB1Wkn1UM)
 - [The Power of A. Nine Against Overpowered Bullcrap](https://www.youtube.com/watch?v=4fzzUFqHbIU)
 - [Peak Garde&#39;ing!](https://www.youtube.com/watch?v=kqpbQIiZG6w)
 - [Parry this you filthy throwers!](https://www.youtube.com/watch?v=hTuKxHsKUA0)
 - [uwu cutting blox](https://www.youtube.com/watch?v=8gzuzfXIiVg)
-- [Yveltal is over powered pls nerf, nya~!](https://www.youtube.com/watch?v=tcslm_uICUw)
 <!-- BLOG-POST-LIST:END -->
