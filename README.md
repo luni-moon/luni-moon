@@ -39,9 +39,9 @@
 
 ### My Recent YouTube Videos (All of my Channels)
 <!-- BLOG-POST-LIST:START -->
+- [Toxtricity is not broken! Trust &lpar;not clickbait&rpar; &lpar;gone wrong&rpar;](https://www.youtube.com/watch?v=Fw23Q0ri01s)
 - [&quot;they&#39;re saying it&#39;s the greatest flip of all time. i haven&#39;t seen any flip better than this flip&quot;](https://www.youtube.com/watch?v=50Mf2Nh1SaE)
 - [Legendary Copypasta Gameplay](https://www.youtube.com/watch?v=69jB1Wkn1UM)
 - [The Power of A. Nine Against Overpowered Bullcrap](https://www.youtube.com/watch?v=4fzzUFqHbIU)
 - [Peak Garde&#39;ing!](https://www.youtube.com/watch?v=kqpbQIiZG6w)
-- [Parry this you filthy throwers!](https://www.youtube.com/watch?v=hTuKxHsKUA0)
 <!-- BLOG-POST-LIST:END -->
